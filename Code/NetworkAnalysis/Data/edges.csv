@@ -1,0 +1,2250 @@
+Id,Source,Target,Type,Weight
+1,Scarlett Johansson,Natalie Portman,Undirected,4
+2,Emma Stone,Scarlett Johansson,Undirected,1
+3,Sandra Bullock,Anne Hathaway,Undirected,1
+4,Meryl Streep,Anne Hathaway,Undirected,1
+5,Reese Witherspoon,Meryl Streep,Undirected,3
+6,JenniferLawrence,Anne Hathaway,Undirected,1
+7,JenniferLawrence,Charlize Theron,Undirected,1
+8,BettyWhite,Sandra Bullock,Undirected,1
+9,BettyWhite,Meryl Streep,Undirected,1
+10,JuliaRoberts,Meryl Streep,Undirected,3
+11,JuliaRoberts,Anne Hathaway,Undirected,1
+12,JuliaRoberts,Natalie Portman,Undirected,4
+13,JuliaRoberts,Reese Witherspoon,Undirected,1
+14,MichellePfeiffer,Natalie Portman,Undirected,2
+15,MichellePfeiffer,Scarlett Johansson,Undirected,1
+16,MichellePfeiffer,JenniferLawrence,Undirected,1
+17,MichellePfeiffer,BettyWhite,Undirected,1
+18,MichellePfeiffer,Sandra Bullock,Undirected,1
+19,JulianneMoore,JenniferLawrence,Undirected,2
+20,JulianneMoore,Scarlett Johansson,Undirected,1
+21,JulianneMoore,Emma Stone,Undirected,1
+22,JulianneMoore,Meryl Streep,Undirected,1
+23,JessicaChastain,JenniferLawrence,Undirected,1
+24,JessicaChastain,Charlize Theron,Undirected,1
+25,JessicaChastain,Anne Hathaway,Undirected,1
+26,JessicaChastain,Emma Stone,Undirected,1
+27,JessicaChastain,MichellePfeiffer,Undirected,1
+28,DianeLane,Anne Hathaway,Undirected,1
+29,AmandaSeyfried,Meryl Streep,Undirected,2
+30,AmandaSeyfried,Charlize Theron,Undirected,2
+31,AmandaSeyfried,Anne Hathaway,Undirected,1
+32,AmandaSeyfried,JulianneMoore,Undirected,2
+33,JenniferAniston,JuliaRoberts,Undirected,1
+34,JenniferAniston,Scarlett Johansson,Undirected,1
+35,JenniferAniston,Reese Witherspoon,Undirected,1
+36,KristenBell,AmandaSeyfried,Undirected,1
+37,KristenBell,Emma Stone,Undirected,1
+38,KristenBell,BettyWhite,Undirected,1
+39,KristenBell,Charlize Theron,Undirected,1
+40,KristenBell,Anne Hathaway,Undirected,1
+41,JenniferGarner,AmandaSeyfried,Undirected,1
+42,JenniferGarner,JuliaRoberts,Undirected,2
+43,JenniferGarner,JenniferAniston,Undirected,1
+44,JenniferGarner,Anne Hathaway,Undirected,1
+45,JenniferGarner,Emma Stone,Undirected,1
+46,MilaKunis,JenniferGarner,Undirected,1
+47,MilaKunis,KristenBell,Undirected,3
+48,MilaKunis,JessicaChastain,Undirected,1
+49,MilaKunis,Scarlett Johansson,Undirected,1
+50,MilaKunis,Emma Stone,Undirected,2
+51,MilaKunis,Natalie Portman,Undirected,2
+52,MilaKunis,BettyWhite,Undirected,1
+53,ElizabethBanks,JenniferLawrence,Undirected,4
+54,ElizabethBanks,JulianneMoore,Undirected,3
+55,ElizabethBanks,DianeLane,Undirected,1
+56,ElizabethBanks,Emma Stone,Undirected,1
+57,ElizabethBanks,KristenBell,Undirected,1
+58,ElizabethBanks,MichellePfeiffer,Undirected,1
+59,ElizabethBanks,JenniferGarner,Undirected,1
+60,AmyAdams,DianeLane,Undirected,3
+61,AmyAdams,JenniferLawrence,Undirected,1
+62,AmyAdams,Meryl Streep,Undirected,2
+63,AmyAdams,JuliaRoberts,Undirected,1
+64,AmyAdams,JenniferGarner,Undirected,1
+65,AmyAdams,ElizabethBanks,Undirected,1
+66,JessicaLange,MichellePfeiffer,Undirected,1
+67,JessicaLange,DianeLane,Undirected,1
+68,ViolaDavis,JessicaChastain,Undirected,4
+69,ViolaDavis,Sandra Bullock,Undirected,1
+70,ViolaDavis,Emma Stone,Undirected,1
+71,ViolaDavis,JuliaRoberts,Undirected,1
+72,ViolaDavis,Meryl Streep,Undirected,1
+73,ViolaDavis,AmyAdams,Undirected,1
+74,ViolaDavis,DianeLane,Undirected,1
+75,ViolaDavis,JulianneMoore,Undirected,1
+76,ZoeSaldana,Natalie Portman,Undirected,2
+77,ZoeSaldana,Scarlett Johansson,Undirected,2
+78,ZoeSaldana,MichellePfeiffer,Undirected,1
+79,ZoeSaldana,MilaKunis,Undirected,3
+80,WinonaRyder,Natalie Portman,Undirected,4
+81,WinonaRyder,MilaKunis,Undirected,1
+82,WinonaRyder,ZoeSaldana,Undirected,1
+83,WinonaRyder,JulianneMoore,Undirected,1
+84,WinonaRyder,AmandaSeyfried,Undirected,1
+85,WinonaRyder,Meryl Streep,Undirected,2
+86,WinonaRyder,MichellePfeiffer,Undirected,1
+87,MarisaTomei,Natalie Portman,Undirected,2
+88,MarisaTomei,Scarlett Johansson,Undirected,2
+89,MarisaTomei,MichellePfeiffer,Undirected,1
+90,MarisaTomei,ZoeSaldana,Undirected,1
+91,MarisaTomei,AmandaSeyfried,Undirected,1
+92,MarisaTomei,Emma Stone,Undirected,1
+93,MarisaTomei,JulianneMoore,Undirected,1
+94,MarisaTomei,Sandra Bullock,Undirected,1
+95,JamieLeeCurtis,MarisaTomei,Undirected,1
+96,JamieLeeCurtis,AmandaSeyfried,Undirected,1
+97,JamieLeeCurtis,KristenBell,Undirected,1
+98,DianeKeaton,AmandaSeyfried,Undirected,2
+99,DianeKeaton,MarisaTomei,Undirected,1
+100,DianeKeaton,Meryl Streep,Undirected,1
+101,KateHudson,JuliaRoberts,Undirected,1
+102,KateHudson,JenniferAniston,Undirected,1
+103,KateHudson,JenniferGarner,Undirected,1
+104,KateHudson,Anne Hathaway,Undirected,1
+105,AnnaKendrick,ElizabethBanks,Undirected,4
+106,AnnaKendrick,Meryl Streep,Undirected,1
+107,AnnaKendrick,JenniferAniston,Undirected,1
+108,FrancesMcDormand,Scarlett Johansson,Undirected,3
+109,FrancesMcDormand,JessicaChastain,Undirected,1
+110,FrancesMcDormand,AmyAdams,Undirected,1
+111,FrancesMcDormand,JenniferAniston,Undirected,1
+112,FrancesMcDormand,Charlize Theron,Undirected,2
+113,FrancesMcDormand,DianeKeaton,Undirected,1
+114,FrancesMcDormand,KateHudson,Undirected,1
+115,SalmaHayek,KristenBell,Undirected,1
+116,SalmaHayek,JulianneMoore,Undirected,1
+117,SalmaHayek,ElizabethBanks,Undirected,1
+118,FayeDunaway,JenniferGarner,Undirected,1
+119,FayeDunaway,Charlize Theron,Undirected,1
+120,NicoleKidman,Meryl Streep,Undirected,4
+121,NicoleKidman,Charlize Theron,Undirected,1
+122,NicoleKidman,Reese Witherspoon,Undirected,1
+123,NicoleKidman,JuliaRoberts,Undirected,1
+124,NicoleKidman,JenniferAniston,Undirected,1
+125,NicoleKidman,KateHudson,Undirected,1
+126,NicoleKidman,Natalie Portman,Undirected,2
+127,NicoleKidman,JulianneMoore,Undirected,1
+128,NicoleKidman,Sandra Bullock,Undirected,1
+129,HalleBerry,JulianneMoore,Undirected,1
+130,HalleBerry,JenniferLawrence,Undirected,1
+131,HalleBerry,Emma Stone,Undirected,1
+132,HalleBerry,KristenBell,Undirected,1
+133,HalleBerry,ElizabethBanks,Undirected,1
+134,RobinWright,DianeLane,Undirected,2
+135,RobinWright,AmyAdams,Undirected,1
+136,RobinWright,ViolaDavis,Undirected,1
+137,RobinWright,JulianneMoore,Undirected,1
+138,RobinWright,WinonaRyder,Undirected,1
+139,RobinWright,AmandaSeyfried,Undirected,1
+140,RobinWright,JenniferGarner,Undirected,1
+141,RobinWright,MichellePfeiffer,Undirected,1
+142,HilarySwank,ViolaDavis,Undirected,1
+143,HilarySwank,Meryl Streep,Undirected,1
+144,HilarySwank,Scarlett Johansson,Undirected,1
+145,TinaFey,SalmaHayek,Undirected,2
+146,TinaFey,JulianneMoore,Undirected,1
+147,TinaFey,ElizabethBanks,Undirected,1
+148,TinaFey,MilaKunis,Undirected,1
+149,TinaFey,JenniferGarner,Undirected,1
+150,TinaFey,BettyWhite,Undirected,1
+151,TinaFey,AmandaSeyfried,Undirected,1
+152,GlennClose,AmyAdams,Undirected,1
+153,GlennClose,MilaKunis,Undirected,1
+154,GlennClose,Anne Hathaway,Undirected,2
+155,GlennClose,Meryl Streep,Undirected,1
+156,GlennClose,ElizabethBanks,Undirected,1
+157,GlennClose,AmandaSeyfried,Undirected,1
+158,GlennClose,JenniferGarner,Undirected,1
+159,GlennClose,RobinWright,Undirected,1
+160,GlennClose,NicoleKidman,Undirected,1
+161,GlennClose,KateHudson,Undirected,1
+162,ChristinaRicci,RobinWright,Undirected,1
+163,ChristinaRicci,Reese Witherspoon,Undirected,1
+164,ChristinaRicci,Charlize Theron,Undirected,1
+165,ChristinaRicci,AmyAdams,Undirected,1
+166,ChristinaRicci,JessicaLange,Undirected,1
+167,ChristinaRicci,KateHudson,Undirected,2
+168,OliviaWilde,HilarySwank,Undirected,1
+169,OliviaWilde,AmandaSeyfried,Undirected,2
+170,OliviaWilde,MarisaTomei,Undirected,1
+171,OliviaWilde,DianeKeaton,Undirected,1
+172,OliviaWilde,AmyAdams,Undirected,1
+173,OliviaWilde,MilaKunis,Undirected,1
+174,OliviaWilde,AnnaKendrick,Undirected,1
+175,OliviaWilde,MichellePfeiffer,Undirected,1
+176,OliviaWilde,ElizabethBanks,Undirected,2
+177,OliviaWilde,ZoeSaldana,Undirected,1
+178,OliviaWilde,JenniferGarner,Undirected,1
+179,ChristinaApplegate,KristenBell,Undirected,2
+180,ChristinaApplegate,MilaKunis,Undirected,2
+181,ChristinaApplegate,ZoeSaldana,Undirected,1
+182,ChristinaApplegate,Emma Stone,Undirected,1
+183,DrewBarrymore,Anne Hathaway,Undirected,1
+184,DrewBarrymore,KristenBell,Undirected,1
+185,DrewBarrymore,ChristinaApplegate,Undirected,1
+186,DrewBarrymore,JessicaLange,Undirected,1
+187,DrewBarrymore,Scarlett Johansson,Undirected,1
+188,DrewBarrymore,JenniferAniston,Undirected,1
+189,DrewBarrymore,JamieLeeCurtis,Undirected,1
+190,DrewBarrymore,JuliaRoberts,Undirected,1
+191,DrewBarrymore,NicoleKidman,Undirected,1
+192,SusanSarandon,Natalie Portman,Undirected,4
+193,SusanSarandon,KristenBell,Undirected,1
+194,SusanSarandon,MilaKunis,Undirected,1
+195,SusanSarandon,ChristinaApplegate,Undirected,1
+196,SusanSarandon,JessicaLange,Undirected,1
+197,SusanSarandon,ChristinaRicci,Undirected,2
+198,SusanSarandon,HilarySwank,Undirected,1
+199,SusanSarandon,FayeDunaway,Undirected,1
+200,SusanSarandon,AmandaSeyfried,Undirected,1
+201,SusanSarandon,DianeKeaton,Undirected,1
+202,SusanSarandon,HalleBerry,Undirected,1
+203,SusanSarandon,AnnaKendrick,Undirected,1
+204,SusanSarandon,JulianneMoore,Undirected,1
+205,SusanSarandon,ElizabethBanks,Undirected,1
+206,SusanSarandon,SalmaHayek,Undirected,1
+207,SusanSarandon,TinaFey,Undirected,1
+208,SusanSarandon,AmyAdams,Undirected,1
+209,SusanSarandon,Charlize Theron,Undirected,1
+210,SusanSarandon,MarisaTomei,Undirected,1
+211,SusanSarandon,JuliaRoberts,Undirected,1
+212,SusanSarandon,Meryl Streep,Undirected,1
+213,SusanSarandon,WinonaRyder,Undirected,1
+214,UmaThurman,Emma Stone,Undirected,1
+215,UmaThurman,KristenBell,Undirected,1
+216,UmaThurman,ElizabethBanks,Undirected,1
+217,UmaThurman,HalleBerry,Undirected,1
+218,UmaThurman,ChristinaRicci,Undirected,1
+219,UmaThurman,Meryl Streep,Undirected,1
+220,UmaThurman,Natalie Portman,Undirected,2
+221,MelissaMcCarthy,ElizabethBanks,Undirected,2
+222,MelissaMcCarthy,KristenBell,Undirected,1
+223,MelissaMcCarthy,SusanSarandon,Undirected,1
+224,MelissaMcCarthy,Sandra Bullock,Undirected,1
+225,MelissaMcCarthy,ChristinaApplegate,Undirected,1
+226,MelissaMcCarthy,MichellePfeiffer,Undirected,1
+227,MelissaMcCarthy,RobinWright,Undirected,1
+228,MelissaMcCarthy,AmyAdams,Undirected,1
+229,MelissaMcCarthy,ChristinaRicci,Undirected,1
+230,MelissaMcCarthy,JamieLeeCurtis,Undirected,1
+231,SallyField,Emma Stone,Undirected,3
+232,SallyField,Natalie Portman,Undirected,2
+233,SallyField,RobinWright,Undirected,1
+234,SigourneyWeaver,MelissaMcCarthy,Undirected,1
+235,SigourneyWeaver,DianeKeaton,Undirected,1
+236,SigourneyWeaver,BettyWhite,Undirected,1
+237,SigourneyWeaver,KristenBell,Undirected,1
+238,SigourneyWeaver,ZoeSaldana,Undirected,2
+239,SigourneyWeaver,TinaFey,Undirected,1
+240,SigourneyWeaver,Sandra Bullock,Undirected,1
+241,SigourneyWeaver,JulianneMoore,Undirected,1
+242,SigourneyWeaver,WinonaRyder,Undirected,1
+243,AngelinaJolie,KateHudson,Undirected,1
+244,AngelinaJolie,RobinWright,Undirected,1
+245,AngelinaJolie,WinonaRyder,Undirected,1
+246,NaomiWatts,AmandaSeyfried,Undirected,2
+247,NaomiWatts,SusanSarandon,Undirected,1
+248,NaomiWatts,MelissaMcCarthy,Undirected,1
+249,NaomiWatts,Emma Stone,Undirected,2
+250,NaomiWatts,RobinWright,Undirected,1
+251,NaomiWatts,KristenBell,Undirected,1
+252,NaomiWatts,ElizabethBanks,Undirected,1
+253,NaomiWatts,HalleBerry,Undirected,1
+254,NaomiWatts,UmaThurman,Undirected,1
+255,NaomiWatts,KateHudson,Undirected,1
+256,NaomiWatts,GlennClose,Undirected,1
+257,NaomiWatts,NicoleKidman,Undirected,1
+258,KirstenDunst,NicoleKidman,Undirected,1
+259,KirstenDunst,FrancesMcDormand,Undirected,1
+260,KirstenDunst,ChristinaApplegate,Undirected,1
+261,KirstenDunst,ElizabethBanks,Undirected,3
+262,KirstenDunst,SusanSarandon,Undirected,2
+263,KirstenDunst,JuliaRoberts,Undirected,1
+264,KirstenDunst,MilaKunis,Undirected,1
+265,KirstenDunst,ZoeSaldana,Undirected,1
+266,KirstenDunst,SallyField,Undirected,1
+267,KirstenDunst,Meryl Streep,Undirected,1
+268,KirstenDunst,WinonaRyder,Undirected,1
+269,DakotaFanning,Anne Hathaway,Undirected,1
+270,DakotaFanning,Sandra Bullock,Undirected,1
+271,DakotaFanning,DianeLane,Undirected,1
+272,DakotaFanning,ElizabethBanks,Undirected,1
+273,DakotaFanning,SusanSarandon,Undirected,1
+274,DakotaFanning,AnnaKendrick,Undirected,3
+275,DakotaFanning,JuliaRoberts,Undirected,1
+276,DakotaFanning,AmandaSeyfried,Undirected,1
+277,DakotaFanning,JenniferGarner,Undirected,1
+278,DakotaFanning,RobinWright,Undirected,1
+279,DakotaFanning,GlennClose,Undirected,1
+280,DakotaFanning,Reese Witherspoon,Undirected,1
+281,DakotaFanning,Charlize Theron,Undirected,1
+282,DakotaFanning,MichellePfeiffer,Undirected,1
+283,JenniferConnelly,MarisaTomei,Undirected,2
+284,JenniferConnelly,DakotaFanning,Undirected,1
+285,JenniferConnelly,KristenBell,Undirected,1
+286,JenniferConnelly,WinonaRyder,Undirected,1
+287,JenniferConnelly,Scarlett Johansson,Undirected,1
+288,JenniferConnelly,JenniferAniston,Undirected,1
+289,JenniferConnelly,DrewBarrymore,Undirected,1
+290,RosarioDawson,Emma Stone,Undirected,1
+291,RosarioDawson,JenniferGarner,Undirected,1
+292,RosarioDawson,UmaThurman,Undirected,2
+293,RosarioDawson,DianeLane,Undirected,1
+294,RosarioDawson,AngelinaJolie,Undirected,1
+295,RosarioDawson,MarisaTomei,Undirected,1
+296,KathyBates,JessicaLange,Undirected,2
+297,KathyBates,OliviaWilde,Undirected,1
+298,KathyBates,Natalie Portman,Undirected,2
+299,KathyBates,SusanSarandon,Undirected,2
+300,KathyBates,KristenBell,Undirected,1
+301,KathyBates,MelissaMcCarthy,Undirected,2
+302,KathyBates,GlennClose,Undirected,1
+303,KathyBates,KateHudson,Undirected,1
+304,KathyBates,Anne Hathaway,Undirected,1
+305,KathyBates,JuliaRoberts,Undirected,1
+306,KathyBates,JenniferGarner,Undirected,1
+307,KathyBates,Sandra Bullock,Undirected,1
+308,KathyBates,MichellePfeiffer,Undirected,2
+309,KathyBates,JenniferConnelly,Undirected,1
+310,KathyBates,HilarySwank,Undirected,1
+311,KathyBates,ElizabethBanks,Undirected,1
+312,VeraFarmiga,OliviaWilde,Undirected,1
+313,VeraFarmiga,AnnaKendrick,Undirected,1
+314,VeraFarmiga,RobinWright,Undirected,1
+315,VeraFarmiga,JessicaLange,Undirected,1
+316,VeraFarmiga,Meryl Streep,Undirected,1
+317,VeraFarmiga,HilarySwank,Undirected,1
+318,VeraFarmiga,RosarioDawson,Undirected,1
+319,VeraFarmiga,Charlize Theron,Undirected,1
+320,VeraFarmiga,WinonaRyder,Undirected,1
+321,JodieFoster,JenniferLawrence,Undirected,1
+322,JodieFoster,UmaThurman,Undirected,1
+323,JodieFoster,KathyBates,Undirected,1
+324,MillaJovovich,VeraFarmiga,Undirected,1
+325,MillaJovovich,Natalie Portman,Undirected,2
+326,MillaJovovich,WinonaRyder,Undirected,1
+327,MillaJovovich,FayeDunaway,Undirected,1
+328,MillaJovovich,RosarioDawson,Undirected,1
+329,MillaJovovich,DianeLane,Undirected,1
+330,AmyPoehler,TinaFey,Undirected,5
+331,AmyPoehler,ElizabethBanks,Undirected,1
+332,AmyPoehler,DianeLane,Undirected,1
+333,AmyPoehler,ChristinaApplegate,Undirected,2
+334,AmyPoehler,Reese Witherspoon,Undirected,1
+335,AmyPoehler,SigourneyWeaver,Undirected,1
+336,AmyPoehler,SusanSarandon,Undirected,1
+337,AmyPoehler,AmyAdams,Undirected,2
+338,AmyPoehler,AmandaSeyfried,Undirected,1
+339,ChloëGraceMoretz,Charlize Theron,Undirected,2
+340,ChloëGraceMoretz,SalmaHayek,Undirected,1
+341,ChloëGraceMoretz,TinaFey,Undirected,1
+342,ChloëGraceMoretz,JulianneMoore,Undirected,1
+343,ChloëGraceMoretz,Emma Stone,Undirected,1
+344,ChloëGraceMoretz,KristenBell,Undirected,1
+345,ChloëGraceMoretz,ElizabethBanks,Undirected,1
+346,ChloëGraceMoretz,HalleBerry,Undirected,1
+347,ChloëGraceMoretz,UmaThurman,Undirected,1
+348,ChloëGraceMoretz,NaomiWatts,Undirected,1
+349,ChloëGraceMoretz,MichellePfeiffer,Undirected,1
+350,ChloëGraceMoretz,JessicaChastain,Undirected,2
+351,ChloëGraceMoretz,JenniferLawrence,Undirected,1
+352,KristenWiig,RobinWright,Undirected,1
+353,KristenWiig,JenniferLawrence,Undirected,1
+354,KristenWiig,MichellePfeiffer,Undirected,1
+355,KristenWiig,MelissaMcCarthy,Undirected,2
+356,KristenWiig,SigourneyWeaver,Undirected,2
+357,KristenWiig,SalmaHayek,Undirected,1
+358,KristenWiig,MillaJovovich,Undirected,1
+359,KristenWiig,JessicaChastain,Undirected,1
+360,KristenWiig,Natalie Portman,Undirected,2
+361,KristenWiig,ChristinaApplegate,Undirected,1
+362,KristenWiig,KirstenDunst,Undirected,2
+363,KristenWiig,AmyAdams,Undirected,1
+364,KristenWiig,OliviaWilde,Undirected,1
+365,KristenWiig,Charlize Theron,Undirected,1
+366,KristenWiig,MilaKunis,Undirected,2
+367,KristenWiig,TinaFey,Undirected,1
+368,KristenWiig,DrewBarrymore,Undirected,1
+369,KristenWiig,ElizabethBanks,Undirected,1
+370,ZooeyDeschanel,JamieLeeCurtis,Undirected,1
+371,ZooeyDeschanel,AnnaKendrick,Undirected,2
+372,ZooeyDeschanel,KateHudson,Undirected,2
+373,ZooeyDeschanel,Natalie Portman,Undirected,2
+374,ZooeyDeschanel,ElizabethBanks,Undirected,1
+375,ZooeyDeschanel,ChloëGraceMoretz,Undirected,1
+376,ZooeyDeschanel,JenniferAniston,Undirected,1
+377,ZooeyDeschanel,FrancesMcDormand,Undirected,1
+378,AngelaBassett,TinaFey,Undirected,1
+379,AngelaBassett,Natalie Portman,Undirected,2
+380,AngelaBassett,Scarlett Johansson,Undirected,1
+381,AngelaBassett,MichellePfeiffer,Undirected,1
+382,AngelaBassett,ZoeSaldana,Undirected,1
+383,AngelaBassett,MarisaTomei,Undirected,1
+384,AngelaBassett,JessicaLange,Undirected,2
+385,AngelaBassett,KathyBates,Undirected,1
+386,AngelaBassett,HilarySwank,Undirected,1
+387,AngelaBassett,OliviaWilde,Undirected,1
+388,AngelaBassett,MillaJovovich,Undirected,1
+389,AngelaBassett,Reese Witherspoon,Undirected,1
+390,AngelaBassett,SallyField,Undirected,1
+391,AngelaBassett,KirstenDunst,Undirected,1
+392,AngelaBassett,VeraFarmiga,Undirected,1
+393,AngelaBassett,BettyWhite,Undirected,1
+394,AngelaBassett,Meryl Streep,Undirected,1
+395,AngelaBassett,JodieFoster,Undirected,1
+396,HelenHunt,ChloëGraceMoretz,Undirected,1
+397,HelenHunt,Scarlett Johansson,Undirected,1
+398,HelenHunt,Charlize Theron,Undirected,1
+399,HelenHunt,MarisaTomei,Undirected,1
+400,KerryWashington,Meryl Streep,Undirected,1
+401,KerryWashington,NicoleKidman,Undirected,2
+402,KerryWashington,Reese Witherspoon,Undirected,1
+403,KerryWashington,ElizabethBanks,Undirected,2
+404,KerryWashington,NaomiWatts,Undirected,1
+405,KerryWashington,AngelinaJolie,Undirected,1
+406,KerryWashington,GlennClose,Undirected,1
+407,ElisabethShue,Emma Stone,Undirected,1
+408,ElisabethShue,JenniferLawrence,Undirected,1
+409,ElisabethShue,Meryl Streep,Undirected,1
+410,ElisabethShue,AmyPoehler,Undirected,1
+411,ElisabethShue,DakotaFanning,Undirected,1
+412,ElisabethShue,ViolaDavis,Undirected,1
+413,ElisabethShue,JessicaLange,Undirected,1
+414,ElisabethShue,JenniferGarner,Undirected,1
+415,JenniferLoveHewitt,AngelaBassett,Undirected,1
+416,JenniferLoveHewitt,BettyWhite,Undirected,1
+417,JenniferLoveHewitt,SigourneyWeaver,Undirected,1
+418,JenniferLoveHewitt,JenniferGarner,Undirected,1
+419,ClaireDanes,MichellePfeiffer,Undirected,2
+420,ClaireDanes,Meryl Streep,Undirected,3
+421,ClaireDanes,GlennClose,Undirected,1
+422,ClaireDanes,DianeKeaton,Undirected,1
+423,ClaireDanes,JulianneMoore,Undirected,1
+424,ClaireDanes,NicoleKidman,Undirected,1
+425,ClaireDanes,SusanSarandon,Undirected,2
+426,ClaireDanes,WinonaRyder,Undirected,2
+427,ClaireDanes,KirstenDunst,Undirected,1
+428,LivTyler,SusanSarandon,Undirected,1
+429,LivTyler,DianeKeaton,Undirected,1
+430,LivTyler,KateHudson,Undirected,1
+431,LivTyler,JulianneMoore,Undirected,1
+432,LivTyler,ClaireDanes,Undirected,1
+433,LivTyler,JenniferConnelly,Undirected,1
+434,LivTyler,Charlize Theron,Undirected,1
+435,SharonStone,Meryl Streep,Undirected,1
+436,SharonStone,ChristinaRicci,Undirected,1
+437,SharonStone,SusanSarandon,Undirected,2
+438,SharonStone,MillaJovovich,Undirected,1
+439,SharonStone,AmandaSeyfried,Undirected,2
+440,SharonStone,HelenHunt,Undirected,1
+441,SharonStone,OliviaWilde,Undirected,1
+442,SharonStone,HalleBerry,Undirected,1
+443,SharonStone,KathyBates,Undirected,1
+444,JuliaLouisDreyfus,Anne Hathaway,Undirected,1
+445,JuliaLouisDreyfus,GlennClose,Undirected,1
+446,JuliaLouisDreyfus,Charlize Theron,Undirected,1
+447,JuliaLouisDreyfus,KristenWiig,Undirected,1
+448,JuliaLouisDreyfus,JenniferGarner,Undirected,1
+449,JuliaLouisDreyfus,ElisabethShue,Undirected,1
+450,JuliaLouisDreyfus,Scarlett Johansson,Undirected,1
+451,LauraLinney,GlennClose,Undirected,1
+452,LauraLinney,SalmaHayek,Undirected,1
+453,LauraLinney,AmyAdams,Undirected,1
+454,LauraLinney,NicoleKidman,Undirected,1
+455,LauraLinney,SusanSarandon,Undirected,1
+456,LauraLinney,Scarlett Johansson,Undirected,1
+457,LauraLinney,TinaFey,Undirected,1
+458,LauraLinney,AmyPoehler,Undirected,1
+459,LauraLinney,MelissaMcCarthy,Undirected,1
+460,LauraLinney,FayeDunaway,Undirected,1
+461,KeriRussell,VeraFarmiga,Undirected,1
+462,KeriRussell,SusanSarandon,Undirected,1
+463,KeriRussell,SigourneyWeaver,Undirected,1
+464,RenéeZellweger,Reese Witherspoon,Undirected,1
+465,RenéeZellweger,AmyPoehler,Undirected,1
+466,RenéeZellweger,AngelinaJolie,Undirected,1
+467,RenéeZellweger,Natalie Portman,Undirected,2
+468,RenéeZellweger,NicoleKidman,Undirected,1
+469,RenéeZellweger,MichellePfeiffer,Undirected,1
+470,RenéeZellweger,RobinWright,Undirected,1
+471,RenéeZellweger,MelissaMcCarthy,Undirected,1
+472,RenéeZellweger,Meryl Streep,Undirected,1
+473,RenéeZellweger,LivTyler,Undirected,1
+474,TomHanks,RobinWright,Undirected,1
+475,TomHanks,SallyField,Undirected,1
+476,TomHanks,JenniferGarner,Undirected,1
+477,TomHanks,ElizabethBanks,Undirected,1
+478,TomHanks,AmyAdams,Undirected,2
+479,TomHanks,BettyWhite,Undirected,1
+480,TomHanks,HelenHunt,Undirected,1
+481,TomHanks,LauraLinney,Undirected,1
+482,TomHanks,HalleBerry,Undirected,1
+483,TomHanks,SusanSarandon,Undirected,1
+484,TomHanks,ZoeSaldana,Undirected,1
+485,TomHanks,ElisabethShue,Undirected,1
+486,TomHanks,Meryl Streep,Undirected,1
+487,TomHanks,Sandra Bullock,Undirected,1
+488,TomHanks,ViolaDavis,Undirected,1
+489,TomHanks,JuliaRoberts,Undirected,2
+490,TomHanks,Charlize Theron,Undirected,1
+491,TomHanks,LivTyler,Undirected,1
+492,RobertDuwall,ViolaDavis,Undirected,1
+493,RobertDuwall,VeraFarmiga,Undirected,1
+494,RobertDuwall,Charlize Theron,Undirected,1
+495,RobertDuwall,Reese Witherspoon,Undirected,1
+496,RobertDuwall,DrewBarrymore,Undirected,1
+497,RobertDuwall,JuliaRoberts,Undirected,1
+498,RobertDuwall,Sandra Bullock,Undirected,1
+499,RobertDuwall,NicoleKidman,Undirected,1
+500,TommyLeeJones,LivTyler,Undirected,1
+501,TommyLeeJones,MillaJovovich,Undirected,1
+502,TommyLeeJones,Meryl Streep,Undirected,2
+503,TommyLeeJones,HilarySwank,Undirected,1
+504,TommyLeeJones,MichellePfeiffer,Undirected,1
+505,TommyLeeJones,SallyField,Undirected,1
+506,TommyLeeJones,Charlize Theron,Undirected,1
+507,TommyLeeJones,SusanSarandon,Undirected,2
+508,TommyLeeJones,RosarioDawson,Undirected,1
+509,TommyLeeJones,KirstenDunst,Undirected,1
+510,TommyLeeJones,NicoleKidman,Undirected,1
+511,TommyLeeJones,DrewBarrymore,Undirected,1
+512,TommyLeeJones,JessicaLange,Undirected,1
+513,TommyLeeJones,JulianneMoore,Undirected,1
+514,TommyLeeJones,DianeLane,Undirected,2
+515,TommyLeeJones,RobinWright,Undirected,1
+516,EdHarris,JenniferLawrence,Undirected,1
+517,EdHarris,MichellePfeiffer,Undirected,1
+518,EdHarris,KristenWiig,Undirected,1
+519,EdHarris,RobertDuwall,Undirected,1
+520,EdHarris,MillaJovovich,Undirected,1
+521,EdHarris,Sandra Bullock,Undirected,1
+522,EdHarris,JenniferConnelly,Undirected,6
+523,EdHarris,ElizabethBanks,Undirected,1
+524,EdHarris,MarisaTomei,Undirected,1
+525,EdHarris,RenéeZellweger,Undirected,1
+526,EdHarris,ZooeyDeschanel,Undirected,1
+527,EdHarris,NicoleKidman,Undirected,2
+528,EdHarris,KerryWashington,Undirected,1
+529,EdHarris,JessicaLange,Undirected,1
+530,EdHarris,AngelaBassett,Undirected,1
+531,EdHarris,Meryl Streep,Undirected,1
+532,EdHarris,JulianneMoore,Undirected,1
+533,EdHarris,ClaireDanes,Undirected,1
+534,EdHarris,JuliaRoberts,Undirected,1
+535,EdHarris,SusanSarandon,Undirected,1
+536,EdHarris,LauraLinney,Undirected,2
+537,EdHarris,SallyField,Undirected,1
+538,EdHarris,TomHanks,Undirected,1
+539,EdHarris,Scarlett Johansson,Undirected,1
+540,EdHarris,FrancesMcDormand,Undirected,1
+541,MatthewMcConaughey,Anne Hathaway,Undirected,2
+542,MatthewMcConaughey,DianeLane,Undirected,1
+543,MatthewMcConaughey,KeriRussell,Undirected,1
+544,MatthewMcConaughey,Charlize Theron,Undirected,1
+545,MatthewMcConaughey,NaomiWatts,Undirected,1
+546,MatthewMcConaughey,Reese Witherspoon,Undirected,2
+547,MatthewMcConaughey,JessicaChastain,Undirected,1
+548,MatthewMcConaughey,JenniferGarner,Undirected,2
+549,MatthewMcConaughey,JulianneMoore,Undirected,1
+550,MatthewMcConaughey,TommyLeeJones,Undirected,1
+551,MatthewMcConaughey,NicoleKidman,Undirected,1
+552,MatthewMcConaughey,MarisaTomei,Undirected,1
+553,MatthewMcConaughey,Emma Stone,Undirected,1
+554,MatthewMcConaughey,JenniferLoveHewitt,Undirected,1
+555,MatthewMcConaughey,KateHudson,Undirected,2
+556,MatthewMcConaughey,KathyBates,Undirected,1
+557,MatthewMcConaughey,GlennClose,Undirected,1
+558,MatthewMcConaughey,JodieFoster,Undirected,1
+559,MatthewMcConaughey,AngelaBassett,Undirected,1
+560,MatthewMcConaughey,Sandra Bullock,Undirected,1
+561,SamuelLJackson,KeriRussell,Undirected,1
+562,SamuelLJackson,EdHarris,Undirected,2
+563,SamuelLJackson,MarisaTomei,Undirected,2
+564,SamuelLJackson,Natalie Portman,Undirected,10
+565,SamuelLJackson,Scarlett Johansson,Undirected,8
+566,SamuelLJackson,MichellePfeiffer,Undirected,2
+567,SamuelLJackson,ZoeSaldana,Undirected,2
+568,SamuelLJackson,AngelaBassett,Undirected,3
+569,SamuelLJackson,TommyLeeJones,Undirected,3
+570,SamuelLJackson,SalmaHayek,Undirected,1
+571,SamuelLJackson,KerryWashington,Undirected,2
+572,SamuelLJackson,NaomiWatts,Undirected,1
+573,SamuelLJackson,DianeLane,Undirected,1
+574,SamuelLJackson,ChristinaRicci,Undirected,2
+575,SamuelLJackson,JulianneMoore,Undirected,1
+576,SamuelLJackson,RobinWright,Undirected,1
+577,SamuelLJackson,SharonStone,Undirected,1
+578,SamuelLJackson,Sandra Bullock,Undirected,1
+579,SamuelLJackson,MatthewMcConaughey,Undirected,1
+580,SamuelLJackson,HelenHunt,Undirected,1
+581,SamuelLJackson,JessicaLange,Undirected,1
+582,ChristopherWalken,ChristinaRicci,Undirected,2
+583,ChristopherWalken,UmaThurman,Undirected,1
+584,ChristopherWalken,SusanSarandon,Undirected,3
+585,ChristopherWalken,GlennClose,Undirected,3
+586,ChristopherWalken,AmandaSeyfried,Undirected,1
+587,ChristopherWalken,JenniferGarner,Undirected,2
+588,ChristopherWalken,RobinWright,Undirected,1
+589,ChristopherWalken,DakotaFanning,Undirected,2
+590,ChristopherWalken,Scarlett Johansson,Undirected,1
+591,ChristopherWalken,NicoleKidman,Undirected,2
+592,ChristopherWalken,SharonStone,Undirected,3
+593,ChristopherWalken,MichellePfeiffer,Undirected,2
+594,ChristopherWalken,TinaFey,Undirected,1
+595,ChristopherWalken,AmyPoehler,Undirected,2
+596,ChristopherWalken,LauraLinney,Undirected,1
+597,ChristopherWalken,RosarioDawson,Undirected,2
+598,ChristopherWalken,ElizabethBanks,Undirected,1
+599,ChristopherWalken,AmyAdams,Undirected,1
+600,ChristopherWalken,TomHanks,Undirected,1
+601,ChristopherWalken,HilarySwank,Undirected,1
+602,ChristopherWalken,JuliaRoberts,Undirected,1
+603,ChristopherWalken,VeraFarmiga,Undirected,1
+604,ChristopherWalken,SamuelLJackson,Undirected,2
+605,KeanuReeves,BettyWhite,Undirected,1
+606,KeanuReeves,TomHanks,Undirected,1
+607,KeanuReeves,HalleBerry,Undirected,1
+608,KeanuReeves,WinonaRyder,Undirected,3
+609,KeanuReeves,JenniferGarner,Undirected,1
+610,KeanuReeves,RenéeZellweger,Undirected,1
+611,KeanuReeves,JulianneMoore,Undirected,2
+612,KeanuReeves,SamuelLJackson,Undirected,1
+613,KeanuReeves,VeraFarmiga,Undirected,1
+614,KeanuReeves,RobinWright,Undirected,1
+615,KeanuReeves,JenniferConnelly,Undirected,1
+616,KeanuReeves,KathyBates,Undirected,1
+617,KeanuReeves,Sandra Bullock,Undirected,2
+618,KeanuReeves,NaomiWatts,Undirected,1
+619,KeanuReeves,DianeKeaton,Undirected,1
+620,KeanuReeves,FrancesMcDormand,Undirected,1
+621,KeanuReeves,Charlize Theron,Undirected,2
+622,KeanuReeves,HilarySwank,Undirected,1
+623,KeanuReeves,MarisaTomei,Undirected,1
+624,MelGibson,JenniferLawrence,Undirected,1
+625,MelGibson,JodieFoster,Undirected,2
+626,MelGibson,MatthewMcConaughey,Undirected,1
+627,MelGibson,RobinWright,Undirected,1
+628,MelGibson,KeriRussell,Undirected,1
+629,MelGibson,MarisaTomei,Undirected,1
+630,MelGibson,HelenHunt,Undirected,1
+631,MelGibson,MillaJovovich,Undirected,1
+632,MelGibson,JuliaRoberts,Undirected,1
+633,MelGibson,GlennClose,Undirected,1
+634,MarkRuffalo,Anne Hathaway,Undirected,1
+635,MarkRuffalo,Natalie Portman,Undirected,2
+636,MarkRuffalo,Scarlett Johansson,Undirected,5
+637,MarkRuffalo,MichellePfeiffer,Undirected,1
+638,MarkRuffalo,ZoeSaldana,Undirected,3
+639,MarkRuffalo,MarisaTomei,Undirected,1
+640,MarkRuffalo,AngelaBassett,Undirected,1
+641,MarkRuffalo,SamuelLJackson,Undirected,5
+642,MarkRuffalo,MilaKunis,Undirected,1
+643,MarkRuffalo,TinaFey,Undirected,1
+644,MarkRuffalo,KristenWiig,Undirected,1
+645,MarkRuffalo,JulianneMoore,Undirected,2
+646,MarkRuffalo,LauraLinney,Undirected,2
+647,MarkRuffalo,JenniferConnelly,Undirected,1
+648,MarkRuffalo,JenniferAniston,Undirected,1
+649,MarkRuffalo,Reese Witherspoon,Undirected,1
+650,MarkRuffalo,JenniferGarner,Undirected,1
+651,MarkRuffalo,KirstenDunst,Undirected,1
+652,MarkRuffalo,NaomiWatts,Undirected,1
+653,MarkRuffalo,ChristinaApplegate,Undirected,1
+654,MarkRuffalo,RobinWright,Undirected,1
+655,WilliamHMacy,KathyBates,Undirected,2
+656,WilliamHMacy,MelGibson,Undirected,1
+657,WilliamHMacy,JenniferAniston,Undirected,1
+658,WilliamHMacy,AnnaKendrick,Undirected,1
+659,WilliamHMacy,HelenHunt,Undirected,2
+660,WilliamHMacy,MarisaTomei,Undirected,2
+661,WilliamHMacy,MatthewMcConaughey,Undirected,2
+662,WilliamHMacy,MillaJovovich,Undirected,1
+663,WilliamHMacy,Emma Stone,Undirected,1
+664,WilliamHMacy,ChristopherWalken,Undirected,1
+665,WilliamHMacy,NaomiWatts,Undirected,1
+666,WilliamHMacy,SharonStone,Undirected,1
+667,WilliamHMacy,RobertDuwall,Undirected,2
+668,WilliamHMacy,KristenBell,Undirected,1
+669,WilliamHMacy,ElizabethBanks,Undirected,1
+670,WilliamHMacy,JulianneMoore,Undirected,5
+671,WilliamHMacy,Reese Witherspoon,Undirected,1
+672,WilliamHMacy,FrancesMcDormand,Undirected,1
+673,WilliamHMacy,KirstenDunst,Undirected,1
+674,WilliamHMacy,SusanSarandon,Undirected,1
+675,WilliamHMacy,TommyLeeJones,Undirected,1
+676,WilliamHMacy,JodieFoster,Undirected,1
+677,BradleyCooper,Natalie Portman,Undirected,2
+678,BradleyCooper,Scarlett Johansson,Undirected,3
+679,BradleyCooper,MichellePfeiffer,Undirected,1
+680,BradleyCooper,ZoeSaldana,Undirected,4
+681,BradleyCooper,MarisaTomei,Undirected,1
+682,BradleyCooper,AngelaBassett,Undirected,1
+683,BradleyCooper,SamuelLJackson,Undirected,2
+684,BradleyCooper,MarkRuffalo,Undirected,2
+685,BradleyCooper,JenniferLawrence,Undirected,3
+686,BradleyCooper,Emma Stone,Undirected,2
+687,BradleyCooper,GlennClose,Undirected,1
+688,BradleyCooper,AmyAdams,Undirected,1
+689,BradleyCooper,MelissaMcCarthy,Undirected,1
+690,BradleyCooper,KristenBell,Undirected,1
+691,BradleyCooper,OliviaWilde,Undirected,1
+692,BradleyCooper,Anne Hathaway,Undirected,1
+693,BradleyCooper,JuliaRoberts,Undirected,1
+694,BradleyCooper,JenniferGarner,Undirected,2
+695,BradleyCooper,KathyBates,Undirected,2
+696,BradleyCooper,Sandra Bullock,Undirected,1
+697,BradleyCooper,RenéeZellweger,Undirected,1
+698,BradleyCooper,JenniferAniston,Undirected,1
+699,BradleyCooper,DrewBarrymore,Undirected,1
+700,BradleyCooper,JenniferConnelly,Undirected,1
+701,BradleyCooper,ZooeyDeschanel,Undirected,1
+702,BradleyCooper,RobinWright,Undirected,1
+703,BradleyCooper,ChristinaRicci,Undirected,1
+704,BradleyCooper,ChristinaApplegate,Undirected,1
+705,BradleyCooper,FayeDunaway,Undirected,1
+706,BradleyCooper,MatthewMcConaughey,Undirected,1
+707,BradleyCooper,ChristopherWalken,Undirected,1
+708,BradleyCooper,ElizabethBanks,Undirected,1
+709,BruceWillis,LauraLinney,Undirected,1
+710,BruceWillis,SamuelLJackson,Undirected,4
+711,BruceWillis,ElisabethShue,Undirected,1
+712,BruceWillis,KateHudson,Undirected,1
+713,BruceWillis,ZooeyDeschanel,Undirected,1
+714,BruceWillis,AmyAdams,Undirected,1
+715,BruceWillis,RosarioDawson,Undirected,2
+716,BruceWillis,FrancesMcDormand,Undirected,1
+717,BruceWillis,SigourneyWeaver,Undirected,1
+718,BruceWillis,RobinWright,Undirected,2
+719,BruceWillis,HalleBerry,Undirected,1
+720,BruceWillis,AmandaSeyfried,Undirected,1
+721,BruceWillis,OliviaWilde,Undirected,1
+722,BruceWillis,SharonStone,Undirected,1
+723,BruceWillis,JuliaRoberts,Undirected,2
+724,BruceWillis,DrewBarrymore,Undirected,1
+725,BruceWillis,BettyWhite,Undirected,1
+726,BruceWillis,MichellePfeiffer,Undirected,1
+727,BruceWillis,LivTyler,Undirected,1
+728,BruceWillis,MillaJovovich,Undirected,1
+729,BruceWillis,ChristopherWalken,Undirected,2
+730,BruceWillis,Scarlett Johansson,Undirected,1
+731,BruceWillis,JuliaLouisDreyfus,Undirected,1
+732,BruceWillis,Meryl Streep,Undirected,1
+733,RobertDowneyJr,Natalie Portman,Undirected,2
+734,RobertDowneyJr,Scarlett Johansson,Undirected,7
+735,RobertDowneyJr,MichellePfeiffer,Undirected,1
+736,RobertDowneyJr,ZoeSaldana,Undirected,2
+737,RobertDowneyJr,MarisaTomei,Undirected,3
+738,RobertDowneyJr,AngelaBassett,Undirected,1
+739,RobertDowneyJr,SamuelLJackson,Undirected,7
+740,RobertDowneyJr,MarkRuffalo,Undirected,6
+741,RobertDowneyJr,BradleyCooper,Undirected,2
+742,RobertDowneyJr,JenniferConnelly,Undirected,1
+743,RobertDowneyJr,VeraFarmiga,Undirected,1
+744,RobertDowneyJr,RobertDuwall,Undirected,3
+745,RobertDowneyJr,LivTyler,Undirected,1
+746,RobertDowneyJr,JenniferLoveHewitt,Undirected,1
+747,RobertDowneyJr,MatthewMcConaughey,Undirected,1
+748,RobertDowneyJr,DrewBarrymore,Undirected,1
+749,RobertDowneyJr,NicoleKidman,Undirected,1
+750,RobertDowneyJr,WinonaRyder,Undirected,1
+751,RobertDowneyJr,KeanuReeves,Undirected,1
+752,RobertDowneyJr,RosarioDawson,Undirected,1
+753,RobertDowneyJr,HalleBerry,Undirected,1
+754,RobertDowneyJr,RobinWright,Undirected,1
+755,RobertDowneyJr,MelGibson,Undirected,2
+756,RobertDowneyJr,FrancesMcDormand,Undirected,1
+757,RobertDowneyJr,TommyLeeJones,Undirected,2
+758,RobertDowneyJr,ClaireDanes,Undirected,1
+759,RobertDowneyJr,JulianneMoore,Undirected,1
+760,RobertDowneyJr,DianeLane,Undirected,1
+761,RobertDowneyJr,MillaJovovich,Undirected,1
+762,RobertDowneyJr,SallyField,Undirected,1
+763,EdwardNorton,BruceWillis,Undirected,2
+764,EdwardNorton,JenniferConnelly,Undirected,1
+765,EdwardNorton,Scarlett Johansson,Undirected,1
+766,EdwardNorton,FrancesMcDormand,Undirected,2
+767,EdwardNorton,SalmaHayek,Undirected,3
+768,EdwardNorton,KristenWiig,Undirected,1
+769,EdwardNorton,Emma Stone,Undirected,1
+770,EdwardNorton,NaomiWatts,Undirected,2
+771,EdwardNorton,MillaJovovich,Undirected,1
+772,EdwardNorton,SusanSarandon,Undirected,1
+773,EdwardNorton,KeriRussell,Undirected,1
+774,EdwardNorton,JenniferGarner,Undirected,1
+775,EdwardNorton,TinaFey,Undirected,1
+776,EdwardNorton,LivTyler,Undirected,1
+777,EdwardNorton,RobertDowneyJr,Undirected,1
+778,EdwardNorton,Charlize Theron,Undirected,1
+779,EdwardNorton,RosarioDawson,Undirected,1
+780,EdwardNorton,AngelaBassett,Undirected,1
+781,EdwardNorton,Natalie Portman,Undirected,2
+782,EdwardNorton,JuliaRoberts,Undirected,1
+783,EdwardNorton,LauraLinney,Undirected,1
+784,ClintEastwood,BradleyCooper,Undirected,2
+785,ClintEastwood,AmyAdams,Undirected,1
+786,ClintEastwood,HilarySwank,Undirected,1
+787,ClintEastwood,TommyLeeJones,Undirected,1
+788,ClintEastwood,LauraLinney,Undirected,1
+789,ClintEastwood,EdHarris,Undirected,1
+790,ClintEastwood,Meryl Streep,Undirected,1
+791,ClintEastwood,MelGibson,Undirected,1
+792,WoodyHarrelson,MillaJovovich,Undirected,1
+793,WoodyHarrelson,TommyLeeJones,Undirected,4
+794,WoodyHarrelson,FrancesMcDormand,Undirected,2
+795,WoodyHarrelson,MarkRuffalo,Undirected,2
+796,WoodyHarrelson,JenniferLawrence,Undirected,4
+797,WoodyHarrelson,JulianneMoore,Undirected,3
+798,WoodyHarrelson,ElizabethBanks,Undirected,4
+799,WoodyHarrelson,ZoeSaldana,Undirected,1
+800,WoodyHarrelson,AmyPoehler,Undirected,1
+801,WoodyHarrelson,ChristopherWalken,Undirected,1
+802,WoodyHarrelson,SigourneyWeaver,Undirected,1
+803,WoodyHarrelson,Emma Stone,Undirected,2
+804,WoodyHarrelson,MilaKunis,Undirected,1
+805,WoodyHarrelson,RosarioDawson,Undirected,1
+806,WoodyHarrelson,JenniferAniston,Undirected,1
+807,WoodyHarrelson,KristenWiig,Undirected,1
+808,WoodyHarrelson,MatthewMcConaughey,Undirected,3
+809,WoodyHarrelson,Charlize Theron,Undirected,3
+810,WoodyHarrelson,Meryl Streep,Undirected,1
+811,WoodyHarrelson,WinonaRyder,Undirected,1
+812,WoodyHarrelson,KeanuReeves,Undirected,1
+813,WoodyHarrelson,RobertDowneyJr,Undirected,2
+814,WoodyHarrelson,SalmaHayek,Undirected,1
+815,WoodyHarrelson,EdwardNorton,Undirected,2
+816,WoodyHarrelson,KerryWashington,Undirected,1
+817,WoodyHarrelson,MarisaTomei,Undirected,1
+818,WoodyHarrelson,GlennClose,Undirected,1
+819,WoodyHarrelson,ElisabethShue,Undirected,1
+820,WoodyHarrelson,KirstenDunst,Undirected,1
+821,HarrisonFord,KeriRussell,Undirected,2
+822,HarrisonFord,SamuelLJackson,Undirected,2
+823,HarrisonFord,RobinWright,Undirected,1
+824,HarrisonFord,MelGibson,Undirected,1
+825,HarrisonFord,ChristinaApplegate,Undirected,1
+826,HarrisonFord,KirstenDunst,Undirected,1
+827,HarrisonFord,KristenWiig,Undirected,1
+828,HarrisonFord,ViolaDavis,Undirected,1
+829,HarrisonFord,OliviaWilde,Undirected,1
+830,HarrisonFord,DianeKeaton,Undirected,1
+831,HarrisonFord,MichellePfeiffer,Undirected,1
+832,HarrisonFord,WilliamHMacy,Undirected,1
+833,JakeGyllenhaal,MarisaTomei,Undirected,1
+834,JakeGyllenhaal,SamuelLJackson,Undirected,1
+835,JakeGyllenhaal,AmyAdams,Undirected,1
+836,JakeGyllenhaal,LauraLinney,Undirected,1
+837,JakeGyllenhaal,NaomiWatts,Undirected,1
+838,JakeGyllenhaal,RobinWright,Undirected,1
+839,JakeGyllenhaal,ViolaDavis,Undirected,1
+840,JakeGyllenhaal,AnnaKendrick,Undirected,1
+841,JakeGyllenhaal,VeraFarmiga,Undirected,1
+842,JakeGyllenhaal,Anne Hathaway,Undirected,2
+843,JakeGyllenhaal,Natalie Portman,Undirected,2
+844,JakeGyllenhaal,Meryl Streep,Undirected,1
+845,JakeGyllenhaal,Reese Witherspoon,Undirected,1
+846,JakeGyllenhaal,MarkRuffalo,Undirected,1
+847,JakeGyllenhaal,RobertDowneyJr,Undirected,1
+848,JakeGyllenhaal,SusanSarandon,Undirected,2
+849,JakeGyllenhaal,SharonStone,Undirected,1
+850,JakeGyllenhaal,JenniferAniston,Undirected,1
+851,JakeGyllenhaal,ZooeyDeschanel,Undirected,1
+852,JakeGyllenhaal,DrewBarrymore,Undirected,1
+853,JakeGyllenhaal,JamieLeeCurtis,Undirected,1
+854,JohnTurturro,SusanSarandon,Undirected,5
+855,JohnTurturro,ChristopherWalken,Undirected,5
+856,JohnTurturro,JulianneMoore,Undirected,2
+857,JohnTurturro,SigourneyWeaver,Undirected,2
+858,JohnTurturro,SharonStone,Undirected,2
+859,JohnTurturro,FrancesMcDormand,Undirected,2
+860,JohnTurturro,KerryWashington,Undirected,2
+861,JohnTurturro,RobinWright,Undirected,1
+862,JohnTurturro,BruceWillis,Undirected,1
+863,JohnTurturro,NicoleKidman,Undirected,1
+864,JohnTurturro,AngelinaJolie,Undirected,1
+865,JohnTurturro,WoodyHarrelson,Undirected,2
+866,JohnTurturro,MarisaTomei,Undirected,1
+867,JohnTurturro,WinonaRyder,Undirected,1
+868,JohnTurturro,MatthewMcConaughey,Undirected,1
+869,JohnTurturro,ChristinaRicci,Undirected,1
+870,JohnTurturro,EdwardNorton,Undirected,1
+871,JohnTurturro,RosarioDawson,Undirected,1
+872,JohnTurturro,MillaJovovich,Undirected,1
+873,JohnTurturro,SamuelLJackson,Undirected,2
+874,JohnTurturro,WilliamHMacy,Undirected,1
+875,JohnTurturro,EdHarris,Undirected,1
+876,JohnnyDepp,MichellePfeiffer,Undirected,2
+877,JohnnyDepp,Anne Hathaway,Undirected,2
+878,JohnnyDepp,Meryl Streep,Undirected,1
+879,JohnnyDepp,AnnaKendrick,Undirected,1
+880,JohnnyDepp,JessicaChastain,Undirected,1
+881,JohnnyDepp,ChloëGraceMoretz,Undirected,1
+882,JohnnyDepp,AngelinaJolie,Undirected,1
+883,JohnnyDepp,JohnTurturro,Undirected,2
+884,JohnnyDepp,SalmaHayek,Undirected,1
+885,JohnnyDepp,ZoeSaldana,Undirected,1
+886,JohnnyDepp,ChristinaRicci,Undirected,2
+887,JohnnyDepp,ChristopherWalken,Undirected,2
+888,JohnnyDepp,Charlize Theron,Undirected,1
+889,JohnnyDepp,JulianneMoore,Undirected,1
+890,JohnnyDepp,WilliamHMacy,Undirected,1
+891,AdamSandler,JenniferAniston,Undirected,2
+892,AdamSandler,JohnTurturro,Undirected,3
+893,AdamSandler,JenniferGarner,Undirected,1
+894,AdamSandler,RosarioDawson,Undirected,2
+895,AdamSandler,DrewBarrymore,Undirected,1
+896,AdamSandler,SalmaHayek,Undirected,2
+897,AdamSandler,SusanSarandon,Undirected,1
+898,AdamSandler,JohnnyDepp,Undirected,1
+899,AdamSandler,NicoleKidman,Undirected,1
+900,AdamSandler,KeriRussell,Undirected,1
+901,AdamSandler,LivTyler,Undirected,1
+902,AdamSandler,ChristopherWalken,Undirected,1
+903,AdamSandler,MarisaTomei,Undirected,1
+904,AdamSandler,WoodyHarrelson,Undirected,1
+905,AdamSandler,WinonaRyder,Undirected,1
+906,AdamSandler,Reese Witherspoon,Undirected,1
+907,AdamSandler,AmyPoehler,Undirected,1
+908,ChrisPine,RobinWright,Undirected,2
+909,ChrisPine,KristenWiig,Undirected,1
+910,ChrisPine,Reese Witherspoon,Undirected,2
+911,ChrisPine,ZoeSaldana,Undirected,3
+912,ChrisPine,Meryl Streep,Undirected,1
+913,ChrisPine,AnnaKendrick,Undirected,1
+914,ChrisPine,JohnnyDepp,Undirected,1
+915,ChrisPine,JenniferAniston,Undirected,1
+916,ChrisPine,MichellePfeiffer,Undirected,1
+917,ChrisPine,ElizabethBanks,Undirected,1
+918,ChrisPine,OliviaWilde,Undirected,1
+919,ChrisPine,AngelaBassett,Undirected,1
+920,ChrisPine,RosarioDawson,Undirected,1
+921,ChrisPine,ViolaDavis,Undirected,1
+922,ChrisPine,WinonaRyder,Undirected,1
+923,ChrisPine,Anne Hathaway,Undirected,1
+924,HarveyKeitel,Scarlett Johansson,Undirected,1
+925,HarveyKeitel,FrancesMcDormand,Undirected,2
+926,HarveyKeitel,EdwardNorton,Undirected,3
+927,HarveyKeitel,JohnTurturro,Undirected,3
+928,HarveyKeitel,AdamSandler,Undirected,2
+929,HarveyKeitel,RobinWright,Undirected,1
+930,HarveyKeitel,BruceWillis,Undirected,2
+931,HarveyKeitel,SamuelLJackson,Undirected,2
+932,HarveyKeitel,EdHarris,Undirected,1
+933,HarveyKeitel,UmaThurman,Undirected,1
+934,HarveyKeitel,KathyBates,Undirected,1
+935,HarveyKeitel,Reese Witherspoon,Undirected,1
+936,HarveyKeitel,MatthewMcConaughey,Undirected,1
+937,HarveyKeitel,MelGibson,Undirected,1
+938,HarveyKeitel,ChristopherWalken,Undirected,1
+939,AlPacino,HarveyKeitel,Undirected,1
+940,AlPacino,JenniferGarner,Undirected,1
+941,AlPacino,JessicaChastain,Undirected,1
+942,AlPacino,ChristopherWalken,Undirected,2
+943,AlPacino,JohnnyDepp,Undirected,2
+944,AlPacino,AdamSandler,Undirected,1
+945,AlPacino,SusanSarandon,Undirected,1
+946,AlPacino,MatthewMcConaughey,Undirected,1
+947,AlPacino,Meryl Streep,Undirected,1
+948,AlPacino,WinonaRyder,Undirected,1
+949,AlPacino,HilarySwank,Undirected,1
+950,AlPacino,Charlize Theron,Undirected,1
+951,AlPacino,KeanuReeves,Undirected,1
+952,AlPacino,Natalie Portman,Undirected,2
+953,AlPacino,EdHarris,Undirected,1
+954,AlPacino,MichellePfeiffer,Undirected,1
+955,AlPacino,DianeKeaton,Undirected,3
+956,WillemDafoe,Anne Hathaway,Undirected,1
+957,WillemDafoe,KeanuReeves,Undirected,2
+958,WillemDafoe,BruceWillis,Undirected,1
+959,WillemDafoe,EdwardNorton,Undirected,2
+960,WillemDafoe,NicoleKidman,Undirected,1
+961,WillemDafoe,MichellePfeiffer,Undirected,1
+962,WillemDafoe,JohnnyDepp,Undirected,2
+963,WillemDafoe,GlennClose,Undirected,1
+964,WillemDafoe,DianeKeaton,Undirected,1
+965,WillemDafoe,SigourneyWeaver,Undirected,1
+966,WillemDafoe,HarveyKeitel,Undirected,2
+967,WillemDafoe,RobinWright,Undirected,1
+968,WillemDafoe,UmaThurman,Undirected,1
+969,WillemDafoe,ZoeSaldana,Undirected,1
+970,WillemDafoe,WoodyHarrelson,Undirected,2
+971,WillemDafoe,SalmaHayek,Undirected,2
+972,WillemDafoe,Meryl Streep,Undirected,1
+973,WillemDafoe,JuliaRoberts,Undirected,1
+974,WillemDafoe,ElizabethBanks,Undirected,3
+975,WillemDafoe,KirstenDunst,Undirected,3
+976,WillemDafoe,Natalie Portman,Undirected,2
+977,WillemDafoe,JodieFoster,Undirected,1
+978,WillemDafoe,SamuelLJackson,Undirected,1
+979,WillemDafoe,Reese Witherspoon,Undirected,1
+980,WillemDafoe,ChristopherWalken,Undirected,2
+981,WillemDafoe,Sandra Bullock,Undirected,1
+982,WillemDafoe,HarrisonFord,Undirected,1
+983,BryanCranston,AngelinaJolie,Undirected,2
+984,BryanCranston,Anne Hathaway,Undirected,1
+985,BryanCranston,DrewBarrymore,Undirected,1
+986,BryanCranston,Scarlett Johansson,Undirected,1
+987,BryanCranston,FrancesMcDormand,Undirected,2
+988,BryanCranston,EdwardNorton,Undirected,1
+989,BryanCranston,HarveyKeitel,Undirected,1
+990,BryanCranston,SharonStone,Undirected,1
+991,BryanCranston,RobertDuwall,Undirected,1
+992,BryanCranston,EdHarris,Undirected,1
+993,BryanCranston,AnnaKendrick,Undirected,1
+994,BryanCranston,KateHudson,Undirected,1
+995,BryanCranston,DianeLane,Undirected,1
+996,BryanCranston,JessicaChastain,Undirected,1
+997,BryanCranston,WillemDafoe,Undirected,1
+998,BryanCranston,JuliaRoberts,Undirected,1
+999,BryanCranston,TomHanks,Undirected,3
+1000,BryanCranston,Emma Stone,Undirected,1
+1001,BryanCranston,MarisaTomei,Undirected,1
+1002,BryanCranston,MatthewMcConaughey,Undirected,1
+1003,BryanCranston,WilliamHMacy,Undirected,1
+1004,BryanCranston,JuliaLouisDreyfus,Undirected,1
+1005,BryanCranston,Charlize Theron,Undirected,1
+1006,BryanCranston,LivTyler,Undirected,1
+1007,RobertRedfort,Natalie Portman,Undirected,2
+1008,RobertRedfort,Scarlett Johansson,Undirected,3
+1009,RobertRedfort,MichellePfeiffer,Undirected,2
+1010,RobertRedfort,ZoeSaldana,Undirected,1
+1011,RobertRedfort,MarisaTomei,Undirected,1
+1012,RobertRedfort,AngelaBassett,Undirected,1
+1013,RobertRedfort,SamuelLJackson,Undirected,2
+1014,RobertRedfort,MarkRuffalo,Undirected,2
+1015,RobertRedfort,BradleyCooper,Undirected,1
+1016,RobertRedfort,RobertDowneyJr,Undirected,1
+1017,RobertRedfort,AnnaKendrick,Undirected,1
+1018,RobertRedfort,SusanSarandon,Undirected,1
+1019,RobertRedfort,Meryl Streep,Undirected,1
+1020,RobertRedfort,JuliaRoberts,Undirected,1
+1021,RobertRedfort,DakotaFanning,Undirected,1
+1022,RobertRedfort,WillemDafoe,Undirected,1
+1023,RobertRedfort,RobinWright,Undirected,1
+1024,RobertRedfort,WoodyHarrelson,Undirected,1
+1025,MattDamon,RosarioDawson,Undirected,1
+1026,MattDamon,MarkRuffalo,Undirected,2
+1027,MattDamon,JulianneMoore,Undirected,1
+1028,MattDamon,WillemDafoe,Undirected,1
+1029,MattDamon,TommyLeeJones,Undirected,1
+1030,MattDamon,JessicaChastain,Undirected,2
+1031,MattDamon,KristenWiig,Undirected,1
+1032,MattDamon,Anne Hathaway,Undirected,1
+1033,MattDamon,MatthewMcConaughey,Undirected,2
+1034,MattDamon,JodieFoster,Undirected,1
+1035,MattDamon,FrancesMcDormand,Undirected,1
+1036,MattDamon,Scarlett Johansson,Undirected,1
+1037,MattDamon,BryanCranston,Undirected,2
+1038,MattDamon,AlPacino,Undirected,1
+1039,MattDamon,AngelinaJolie,Undirected,1
+1040,MattDamon,JohnTurturro,Undirected,2
+1041,MattDamon,VeraFarmiga,Undirected,1
+1042,MattDamon,JuliaRoberts,Undirected,3
+1043,MattDamon,BruceWillis,Undirected,1
+1044,MattDamon,LivTyler,Undirected,1
+1045,MattDamon,DrewBarrymore,Undirected,1
+1046,MattDamon,MelissaMcCarthy,Undirected,1
+1047,MattDamon,Charlize Theron,Undirected,1
+1048,MattDamon,SalmaHayek,Undirected,1
+1049,MattDamon,EdwardNorton,Undirected,1
+1050,MattDamon,TomHanks,Undirected,1
+1051,MattDamon,ClaireDanes,Undirected,1
+1052,MattDamon,RobertDuwall,Undirected,1
+1053,DenzelWashington,ViolaDavis,Undirected,2
+1054,DenzelWashington,ChloëGraceMoretz,Undirected,1
+1055,DenzelWashington,VeraFarmiga,Undirected,2
+1056,DenzelWashington,RosarioDawson,Undirected,2
+1057,DenzelWashington,ChrisPine,Undirected,1
+1058,DenzelWashington,MilaKunis,Undirected,1
+1059,DenzelWashington,JohnTurturro,Undirected,3
+1060,DenzelWashington,JodieFoster,Undirected,1
+1061,DenzelWashington,WillemDafoe,Undirected,1
+1062,DenzelWashington,Meryl Streep,Undirected,1
+1063,DenzelWashington,DakotaFanning,Undirected,1
+1064,DenzelWashington,ChristopherWalken,Undirected,1
+1065,DenzelWashington,RobertDuwall,Undirected,1
+1066,DenzelWashington,AngelinaJolie,Undirected,1
+1067,DenzelWashington,BruceWillis,Undirected,1
+1068,DenzelWashington,MillaJovovich,Undirected,1
+1069,DenzelWashington,MattDamon,Undirected,1
+1070,DenzelWashington,TomHanks,Undirected,1
+1071,DenzelWashington,JuliaRoberts,Undirected,1
+1072,DenzelWashington,SamuelLJackson,Undirected,1
+1073,SteveBuscemi,AdamSandler,Undirected,12
+1074,SteveBuscemi,MarisaTomei,Undirected,1
+1075,SteveBuscemi,JohnTurturro,Undirected,8
+1076,SteveBuscemi,HarveyKeitel,Undirected,6
+1077,SteveBuscemi,SalmaHayek,Undirected,2
+1078,SteveBuscemi,OliviaWilde,Undirected,1
+1079,SteveBuscemi,KirstenDunst,Undirected,2
+1080,SteveBuscemi,SigourneyWeaver,Undirected,1
+1081,SteveBuscemi,WoodyHarrelson,Undirected,2
+1082,SteveBuscemi,KerryWashington,Undirected,1
+1083,SteveBuscemi,JuliaRoberts,Undirected,1
+1084,SteveBuscemi,DakotaFanning,Undirected,1
+1085,SteveBuscemi,RobertRedfort,Undirected,1
+1086,SteveBuscemi,Natalie Portman,Undirected,2
+1087,SteveBuscemi,WillemDafoe,Undirected,2
+1088,SteveBuscemi,SusanSarandon,Undirected,1
+1089,SteveBuscemi,ChristopherWalken,Undirected,4
+1090,SteveBuscemi,Scarlett Johansson,Undirected,2
+1091,SteveBuscemi,WinonaRyder,Undirected,1
+1092,SteveBuscemi,RosarioDawson,Undirected,1
+1093,SteveBuscemi,VeraFarmiga,Undirected,1
+1094,SteveBuscemi,Sandra Bullock,Undirected,2
+1095,SteveBuscemi,LivTyler,Undirected,1
+1096,SteveBuscemi,BruceWillis,Undirected,2
+1097,SteveBuscemi,JulianneMoore,Undirected,1
+1098,SteveBuscemi,SamuelLJackson,Undirected,3
+1099,SteveBuscemi,FrancesMcDormand,Undirected,1
+1100,SteveBuscemi,WilliamHMacy,Undirected,2
+1101,SteveBuscemi,NicoleKidman,Undirected,1
+1102,MorganFreeman,TommyLeeJones,Undirected,2
+1103,MorganFreeman,MarkRuffalo,Undirected,2
+1104,MorganFreeman,WoodyHarrelson,Undirected,2
+1105,MorganFreeman,AngelaBassett,Undirected,2
+1106,MorganFreeman,AmandaSeyfried,Undirected,1
+1107,MorganFreeman,DianeKeaton,Undirected,1
+1108,MorganFreeman,Scarlett Johansson,Undirected,1
+1109,MorganFreeman,JohnnyDepp,Undirected,1
+1110,MorganFreeman,ElizabethBanks,Undirected,1
+1111,MorganFreeman,Anne Hathaway,Undirected,1
+1112,MorganFreeman,BruceWillis,Undirected,2
+1113,MorganFreeman,MattDamon,Undirected,1
+1114,MorganFreeman,ChristopherWalken,Undirected,1
+1115,MorganFreeman,WilliamHMacy,Undirected,1
+1116,MorganFreeman,AngelinaJolie,Undirected,1
+1117,MorganFreeman,EdHarris,Undirected,1
+1118,MorganFreeman,RobertRedfort,Undirected,1
+1119,MorganFreeman,HilarySwank,Undirected,1
+1120,MorganFreeman,ClintEastwood,Undirected,2
+1121,MorganFreeman,JenniferAniston,Undirected,1
+1122,MorganFreeman,KirstenDunst,Undirected,1
+1123,MorganFreeman,RenéeZellweger,Undirected,1
+1124,MorganFreeman,RobertDuwall,Undirected,1
+1125,MorganFreeman,BettyWhite,Undirected,1
+1126,MorganFreeman,MatthewMcConaughey,Undirected,1
+1127,MorganFreeman,KeanuReeves,Undirected,1
+1128,MorganFreeman,TomHanks,Undirected,1
+1129,JeffBridges,JenniferConnelly,Undirected,1
+1130,JeffBridges,JulianneMoore,Undirected,3
+1131,JeffBridges,HalleBerry,Undirected,1
+1132,JeffBridges,ChrisPine,Undirected,1
+1133,JeffBridges,Meryl Streep,Undirected,1
+1134,JeffBridges,MattDamon,Undirected,1
+1135,JeffBridges,RobertDuwall,Undirected,1
+1136,JeffBridges,KirstenDunst,Undirected,1
+1137,JeffBridges,SamuelLJackson,Undirected,1
+1138,JeffBridges,RobertDowneyJr,Undirected,1
+1139,JeffBridges,ZooeyDeschanel,Undirected,1
+1140,JeffBridges,ElizabethBanks,Undirected,1
+1141,JeffBridges,WilliamHMacy,Undirected,1
+1142,JeffBridges,JessicaLange,Undirected,1
+1143,JeffBridges,AngelaBassett,Undirected,1
+1144,JeffBridges,EdHarris,Undirected,1
+1145,JeffBridges,SharonStone,Undirected,2
+1146,JeffBridges,JohnTurturro,Undirected,2
+1147,JeffBridges,SteveBuscemi,Undirected,1
+1148,JeffBridges,DianeLane,Undirected,1
+1149,JeffBridges,TommyLeeJones,Undirected,1
+1150,JeffBridges,SusanSarandon,Undirected,1
+1151,JeffBridges,Sandra Bullock,Undirected,1
+1152,JeffBridges,MichellePfeiffer,Undirected,1
+1153,BradPitt,LivTyler,Undirected,1
+1154,BradPitt,TommyLeeJones,Undirected,1
+1155,BradPitt,MattDamon,Undirected,6
+1156,BradPitt,MarisaTomei,Undirected,1
+1157,BradPitt,AngelinaJolie,Undirected,2
+1158,BradPitt,RobinWright,Undirected,1
+1159,BradPitt,JessicaChastain,Undirected,1
+1160,BradPitt,TinaFey,Undirected,1
+1161,BradPitt,SamuelLJackson,Undirected,2
+1162,BradPitt,HarveyKeitel,Undirected,2
+1163,BradPitt,FrancesMcDormand,Undirected,1
+1164,BradPitt,ZooeyDeschanel,Undirected,1
+1165,BradPitt,AlPacino,Undirected,1
+1166,BradPitt,KerryWashington,Undirected,1
+1167,BradPitt,JuliaRoberts,Undirected,4
+1168,BradPitt,BruceWillis,Undirected,2
+1169,BradPitt,MichellePfeiffer,Undirected,1
+1170,BradPitt,DrewBarrymore,Undirected,1
+1171,BradPitt,RobertRedfort,Undirected,1
+1172,BradPitt,EdwardNorton,Undirected,1
+1173,BradPitt,HarrisonFord,Undirected,1
+1174,BradPitt,MorganFreeman,Undirected,1
+1175,BradPitt,ChristopherWalken,Undirected,1
+1176,MarkWahlberg,AmandaSeyfried,Undirected,2
+1177,MarkWahlberg,MelGibson,Undirected,1
+1178,MarkWahlberg,JohnTurturro,Undirected,1
+1179,MarkWahlberg,SteveBuscemi,Undirected,1
+1180,MarkWahlberg,KateHudson,Undirected,1
+1181,MarkWahlberg,MorganFreeman,Undirected,1
+1182,MarkWahlberg,JessicaLange,Undirected,1
+1183,MarkWahlberg,DenzelWashington,Undirected,1
+1184,MarkWahlberg,EdHarris,Undirected,1
+1185,MarkWahlberg,MilaKunis,Undirected,3
+1186,MarkWahlberg,AmyAdams,Undirected,1
+1187,MarkWahlberg,SamuelLJackson,Undirected,1
+1188,MarkWahlberg,TinaFey,Undirected,1
+1189,MarkWahlberg,KristenWiig,Undirected,1
+1190,MarkWahlberg,MarkRuffalo,Undirected,1
+1191,MarkWahlberg,SusanSarandon,Undirected,1
+1192,MarkWahlberg,ZooeyDeschanel,Undirected,1
+1193,MarkWahlberg,RobertDuwall,Undirected,1
+1194,MarkWahlberg,VeraFarmiga,Undirected,1
+1195,MarkWahlberg,MattDamon,Undirected,1
+1196,MarkWahlberg,ElizabethBanks,Undirected,1
+1197,MarkWahlberg,NaomiWatts,Undirected,1
+1198,MarkWahlberg,Charlize Theron,Undirected,2
+1199,MarkWahlberg,EdwardNorton,Undirected,1
+1200,MarkWahlberg,JenniferAniston,Undirected,1
+1201,MarkWahlberg,DianeLane,Undirected,1
+1202,MarkWahlberg,FayeDunaway,Undirected,1
+1203,MarkWahlberg,JulianneMoore,Undirected,1
+1204,MarkWahlberg,WilliamHMacy,Undirected,1
+1205,MarkWahlberg,Reese Witherspoon,Undirected,1
+1206,JohnMalkovich,JessicaChastain,Undirected,1
+1207,JohnMalkovich,JakeGyllenhaal,Undirected,1
+1208,JohnMalkovich,Sandra Bullock,Undirected,1
+1209,JohnMalkovich,MarkWahlberg,Undirected,2
+1210,JohnMalkovich,ChloëGraceMoretz,Undirected,1
+1211,JohnMalkovich,HelenHunt,Undirected,1
+1212,JohnMalkovich,GlennClose,Undirected,1
+1213,JohnMalkovich,KateHudson,Undirected,1
+1214,JohnMalkovich,MillaJovovich,Undirected,1
+1215,JohnMalkovich,KristenWiig,Undirected,1
+1216,JohnMalkovich,RosarioDawson,Undirected,1
+1217,JohnMalkovich,BruceWillis,Undirected,2
+1218,JohnMalkovich,FrancesMcDormand,Undirected,2
+1219,JohnMalkovich,JohnTurturro,Undirected,2
+1220,JohnMalkovich,DianeLane,Undirected,1
+1221,JohnMalkovich,MorganFreeman,Undirected,1
+1222,JohnMalkovich,BradPitt,Undirected,2
+1223,JohnMalkovich,AngelinaJolie,Undirected,2
+1224,JohnMalkovich,VeraFarmiga,Undirected,1
+1225,JohnMalkovich,TomHanks,Undirected,1
+1226,JohnMalkovich,RobinWright,Undirected,1
+1227,JohnMalkovich,SteveBuscemi,Undirected,2
+1228,JohnMalkovich,ZooeyDeschanel,Undirected,1
+1229,JohnMalkovich,JohnnyDepp,Undirected,1
+1230,JohnMalkovich,SalmaHayek,Undirected,1
+1231,JohnMalkovich,WillemDafoe,Undirected,1
+1232,JohnMalkovich,EdwardNorton,Undirected,1
+1233,JohnMalkovich,MattDamon,Undirected,1
+1234,JohnMalkovich,NicoleKidman,Undirected,1
+1235,JohnMalkovich,JenniferConnelly,Undirected,1
+1236,JohnMalkovich,JuliaRoberts,Undirected,1
+1237,JohnMalkovich,ClintEastwood,Undirected,1
+1238,JohnMalkovich,KathyBates,Undirected,1
+1239,JohnMalkovich,JodieFoster,Undirected,1
+1240,JohnMalkovich,WilliamHMacy,Undirected,1
+1241,DwayneJohnson,Charlize Theron,Undirected,1
+1242,DwayneJohnson,EdHarris,Undirected,1
+1243,DwayneJohnson,MarkWahlberg,Undirected,2
+1244,DwayneJohnson,SusanSarandon,Undirected,1
+1245,DwayneJohnson,BettyWhite,Undirected,1
+1246,DwayneJohnson,KristenBell,Undirected,1
+1247,DwayneJohnson,SigourneyWeaver,Undirected,1
+1248,DwayneJohnson,SamuelLJackson,Undirected,1
+1249,DwayneJohnson,Anne Hathaway,Undirected,1
+1250,DwayneJohnson,AmyPoehler,Undirected,1
+1251,DwayneJohnson,UmaThurman,Undirected,1
+1252,DwayneJohnson,HarveyKeitel,Undirected,1
+1253,DwayneJohnson,RosarioDawson,Undirected,1
+1254,DwayneJohnson,ChristopherWalken,Undirected,1
+1255,TomHardy,WoodyHarrelson,Undirected,1
+1256,TomHardy,Charlize Theron,Undirected,1
+1257,TomHardy,Anne Hathaway,Undirected,1
+1258,TomHardy,MorganFreeman,Undirected,2
+1259,TomHardy,JessicaChastain,Undirected,1
+1260,TomHardy,Reese Witherspoon,Undirected,1
+1261,TomHardy,AngelaBassett,Undirected,1
+1262,TomHardy,ChrisPine,Undirected,1
+1263,TomHardy,KirstenDunst,Undirected,1
+1264,TomHardy,WillemDafoe,Undirected,1
+1265,KurtRussell,BradPitt,Undirected,1
+1266,KurtRussell,ZoeSaldana,Undirected,1
+1267,KurtRussell,BradleyCooper,Undirected,1
+1268,KurtRussell,Charlize Theron,Undirected,1
+1269,KurtRussell,DwayneJohnson,Undirected,2
+1270,KurtRussell,KateHudson,Undirected,1
+1271,KurtRussell,MarkWahlberg,Undirected,1
+1272,KurtRussell,JohnMalkovich,Undirected,1
+1273,KurtRussell,SamuelLJackson,Undirected,1
+1274,KurtRussell,RosarioDawson,Undirected,2
+1275,KurtRussell,SusanSarandon,Undirected,1
+1276,KurtRussell,SharonStone,Undirected,1
+1277,KurtRussell,JakeGyllenhaal,Undirected,1
+1278,KurtRussell,SteveBuscemi,Undirected,1
+1279,KurtRussell,RobinWright,Undirected,1
+1280,KurtRussell,SallyField,Undirected,1
+1281,KurtRussell,TomHanks,Undirected,1
+1282,JeremyRenner,Natalie Portman,Undirected,4
+1283,JeremyRenner,Scarlett Johansson,Undirected,4
+1284,JeremyRenner,MichellePfeiffer,Undirected,1
+1285,JeremyRenner,ZoeSaldana,Undirected,1
+1286,JeremyRenner,MarisaTomei,Undirected,2
+1287,JeremyRenner,AngelaBassett,Undirected,1
+1288,JeremyRenner,SamuelLJackson,Undirected,5
+1289,JeremyRenner,MarkRuffalo,Undirected,3
+1290,JeremyRenner,BradleyCooper,Undirected,2
+1291,JeremyRenner,RobertDowneyJr,Undirected,4
+1292,JeremyRenner,RobertRedfort,Undirected,1
+1293,JeremyRenner,AmyPoehler,Undirected,1
+1294,JeremyRenner,AmyAdams,Undirected,2
+1295,JeremyRenner,JenniferLawrence,Undirected,1
+1296,JeremyRenner,EdwardNorton,Undirected,1
+1297,JeremyRenner,ZooeyDeschanel,Undirected,1
+1298,JeremyRenner,BradPitt,Undirected,1
+1299,JeremyRenner,Charlize Theron,Undirected,1
+1300,JeremyRenner,FrancesMcDormand,Undirected,1
+1301,JeremyRenner,WoodyHarrelson,Undirected,1
+1302,ChrisPratt,AmyPoehler,Undirected,1
+1303,ChrisPratt,JuliaLouisDreyfus,Undirected,1
+1304,ChrisPratt,Natalie Portman,Undirected,2
+1305,ChrisPratt,Scarlett Johansson,Undirected,2
+1306,ChrisPratt,MichellePfeiffer,Undirected,1
+1307,ChrisPratt,ZoeSaldana,Undirected,3
+1308,ChrisPratt,MarisaTomei,Undirected,1
+1309,ChrisPratt,AngelaBassett,Undirected,1
+1310,ChrisPratt,SamuelLJackson,Undirected,2
+1311,ChrisPratt,MarkRuffalo,Undirected,2
+1312,ChrisPratt,BradleyCooper,Undirected,4
+1313,ChrisPratt,RobertDowneyJr,Undirected,2
+1314,ChrisPratt,RobertRedfort,Undirected,1
+1315,ChrisPratt,JeremyRenner,Undirected,1
+1316,ChrisPratt,BruceWillis,Undirected,2
+1317,ChrisPratt,KurtRussell,Undirected,1
+1318,ChrisPratt,Anne Hathaway,Undirected,2
+1319,ChrisPratt,JenniferLawrence,Undirected,1
+1320,ChrisPratt,DenzelWashington,Undirected,1
+1321,ChrisPratt,DwayneJohnson,Undirected,1
+1322,ChrisPratt,GlennClose,Undirected,1
+1323,ChrisPratt,ElizabethBanks,Undirected,2
+1324,ChrisPratt,MorganFreeman,Undirected,2
+1325,ChrisPratt,AmyAdams,Undirected,1
+1326,ChrisPratt,OliviaWilde,Undirected,2
+1327,ChrisPratt,KristenWiig,Undirected,1
+1328,ChrisPratt,Emma Stone,Undirected,1
+1329,ChrisPratt,KristenBell,Undirected,1
+1330,ChrisPratt,HalleBerry,Undirected,1
+1331,ChrisPratt,UmaThurman,Undirected,1
+1332,ChrisPratt,NaomiWatts,Undirected,1
+1333,ChrisPratt,ChloëGraceMoretz,Undirected,1
+1334,ChrisPratt,JessicaChastain,Undirected,1
+1335,ChrisPratt,RosarioDawson,Undirected,1
+1336,ChrisPratt,RobinWright,Undirected,1
+1337,ChrisPratt,BradPitt,Undirected,1
+1338,ChrisPratt,AmandaSeyfried,Undirected,1
+1339,ChrisPratt,KateHudson,Undirected,1
+1340,ChrisPratt,AngelinaJolie,Undirected,1
+1341,ChrisPratt,BettyWhite,Undirected,1
+1342,SeanPenn,MelGibson,Undirected,1
+1343,SeanPenn,KristenWiig,Undirected,1
+1344,SeanPenn,Emma Stone,Undirected,1
+1345,SeanPenn,FrancesMcDormand,Undirected,2
+1346,SeanPenn,JessicaChastain,Undirected,1
+1347,SeanPenn,BradPitt,Undirected,2
+1348,SeanPenn,NaomiWatts,Undirected,3
+1349,SeanPenn,RobinWright,Undirected,2
+1350,SeanPenn,BruceWillis,Undirected,1
+1351,SeanPenn,JohnTurturro,Undirected,2
+1352,SeanPenn,MarkRuffalo,Undirected,1
+1353,SeanPenn,NicoleKidman,Undirected,1
+1354,SeanPenn,LauraLinney,Undirected,1
+1355,SeanPenn,ClaireDanes,Undirected,2
+1356,SeanPenn,MichellePfeiffer,Undirected,1
+1357,SeanPenn,DakotaFanning,Undirected,1
+1358,SeanPenn,JohnnyDepp,Undirected,1
+1359,SeanPenn,UmaThurman,Undirected,1
+1360,SeanPenn,JohnMalkovich,Undirected,1
+1361,SeanPenn,WoodyHarrelson,Undirected,1
+1362,SeanPenn,RobertDowneyJr,Undirected,1
+1363,SeanPenn,LivTyler,Undirected,1
+1364,SeanPenn,SusanSarandon,Undirected,1
+1365,SeanPenn,AlPacino,Undirected,1
+1366,SeanPenn,EdHarris,Undirected,1
+1367,PeterDinklage,Emma Stone,Undirected,1
+1368,PeterDinklage,BruceWillis,Undirected,1
+1369,PeterDinklage,Scarlett Johansson,Undirected,1
+1370,PeterDinklage,ZoeSaldana,Undirected,3
+1371,PeterDinklage,SamuelLJackson,Undirected,1
+1372,PeterDinklage,MarkRuffalo,Undirected,2
+1373,PeterDinklage,BradleyCooper,Undirected,1
+1374,PeterDinklage,RobertDowneyJr,Undirected,1
+1375,PeterDinklage,ChrisPratt,Undirected,1
+1376,PeterDinklage,FrancesMcDormand,Undirected,1
+1377,PeterDinklage,WoodyHarrelson,Undirected,1
+1378,PeterDinklage,SeanPenn,Undirected,1
+1379,PeterDinklage,KristenBell,Undirected,1
+1380,PeterDinklage,MelissaMcCarthy,Undirected,1
+1381,PeterDinklage,KathyBates,Undirected,3
+1382,PeterDinklage,AdamSandler,Undirected,1
+1383,PeterDinklage,MilaKunis,Undirected,1
+1384,PeterDinklage,JenniferLawrence,Undirected,1
+1385,PeterDinklage,HalleBerry,Undirected,1
+1386,PeterDinklage,GlennClose,Undirected,1
+1387,PeterDinklage,KateHudson,Undirected,1
+1388,PeterDinklage,SteveBuscemi,Undirected,4
+1389,PeterDinklage,AmyAdams,Undirected,1
+1390,PeterDinklage,Reese Witherspoon,Undirected,1
+1391,PeterDinklage,ChristinaRicci,Undirected,1
+1392,PeterDinklage,ElizabethBanks,Undirected,1
+1393,PeterDinklage,ZooeyDeschanel,Undirected,1
+1394,PeterDinklage,MatthewMcConaughey,Undirected,1
+1395,PeterDinklage,MarisaTomei,Undirected,1
+1396,PeterDinklage,JodieFoster,Undirected,1
+1397,PeterDinklage,WilliamHMacy,Undirected,1
+1398,PeterDinklage,JohnMalkovich,Undirected,1
+1399,MichaelKeaton,MarisaTomei,Undirected,1
+1400,MichaelKeaton,JenniferConnelly,Undirected,3
+1401,MichaelKeaton,RobertDowneyJr,Undirected,2
+1402,MichaelKeaton,MarkRuffalo,Undirected,1
+1403,MichaelKeaton,Sandra Bullock,Undirected,1
+1404,MichaelKeaton,Emma Stone,Undirected,1
+1405,MichaelKeaton,NaomiWatts,Undirected,1
+1406,MichaelKeaton,EdwardNorton,Undirected,1
+1407,MichaelKeaton,TomHanks,Undirected,2
+1408,MichaelKeaton,RobertDuwall,Undirected,2
+1409,MichaelKeaton,SamuelLJackson,Undirected,2
+1410,MichaelKeaton,LivTyler,Undirected,1
+1411,MichaelKeaton,NicoleKidman,Undirected,1
+1412,MichaelKeaton,MichellePfeiffer,Undirected,1
+1413,MichaelKeaton,ChristopherWalken,Undirected,1
+1414,MichaelDouglas,DianeKeaton,Undirected,2
+1415,MichaelDouglas,Natalie Portman,Undirected,2
+1416,MichaelDouglas,Scarlett Johansson,Undirected,1
+1417,MichaelDouglas,MichellePfeiffer,Undirected,2
+1418,MichaelDouglas,ZoeSaldana,Undirected,1
+1419,MichaelDouglas,MarisaTomei,Undirected,1
+1420,MichaelDouglas,AngelaBassett,Undirected,1
+1421,MichaelDouglas,SamuelLJackson,Undirected,1
+1422,MichaelDouglas,MarkRuffalo,Undirected,1
+1423,MichaelDouglas,BradleyCooper,Undirected,1
+1424,MichaelDouglas,RobertDowneyJr,Undirected,2
+1425,MichaelDouglas,RobertRedfort,Undirected,1
+1426,MichaelDouglas,JeremyRenner,Undirected,1
+1427,MichaelDouglas,ChrisPratt,Undirected,1
+1428,MichaelDouglas,JohnMalkovich,Undirected,1
+1429,MichaelDouglas,MorganFreeman,Undirected,1
+1430,MichaelDouglas,MattDamon,Undirected,1
+1431,MichaelDouglas,SusanSarandon,Undirected,2
+1432,MichaelDouglas,Emma Stone,Undirected,1
+1433,MichaelDouglas,JenniferGarner,Undirected,1
+1434,MichaelDouglas,MatthewMcConaughey,Undirected,1
+1435,MichaelDouglas,KateHudson,Undirected,1
+1436,MichaelDouglas,LivTyler,Undirected,1
+1437,MichaelDouglas,FrancesMcDormand,Undirected,1
+1438,MichaelDouglas,SeanPenn,Undirected,1
+1439,MichaelDouglas,RobertDuwall,Undirected,1
+1440,ChrisEvans,JamieLeeCurtis,Undirected,1
+1441,ChrisEvans,Scarlett Johansson,Undirected,8
+1442,ChrisEvans,SamuelLJackson,Undirected,6
+1443,ChrisEvans,MarkRuffalo,Undirected,4
+1444,ChrisEvans,ZoeSaldana,Undirected,2
+1445,ChrisEvans,BradleyCooper,Undirected,1
+1446,ChrisEvans,RobertDowneyJr,Undirected,5
+1447,ChrisEvans,ChrisPratt,Undirected,2
+1448,ChrisEvans,PeterDinklage,Undirected,1
+1449,ChrisEvans,MarisaTomei,Undirected,2
+1450,ChrisEvans,JenniferConnelly,Undirected,2
+1451,ChrisEvans,MichaelKeaton,Undirected,1
+1452,ChrisEvans,JeremyRenner,Undirected,3
+1453,ChrisEvans,MichaelDouglas,Undirected,1
+1454,ChrisEvans,RobertRedfort,Undirected,1
+1455,ChrisEvans,Natalie Portman,Undirected,2
+1456,ChrisEvans,EdHarris,Undirected,1
+1457,ChrisEvans,WinonaRyder,Undirected,1
+1458,ChrisEvans,TommyLeeJones,Undirected,1
+1459,ChrisEvans,AnnaKendrick,Undirected,1
+1460,ChrisEvans,DakotaFanning,Undirected,1
+1461,ChrisEvans,KeanuReeves,Undirected,1
+1462,ChrisEvans,LauraLinney,Undirected,1
+1463,ChrisEvans,KerryWashington,Undirected,1
+1464,ChrisEvans,DianeLane,Undirected,1
+1465,ChrisEvans,WilliamHMacy,Undirected,1
+1466,AndyGarcia,BradleyCooper,Undirected,2
+1467,AndyGarcia,ClintEastwood,Undirected,1
+1468,AndyGarcia,Meryl Streep,Undirected,1
+1469,AndyGarcia,AmandaSeyfried,Undirected,1
+1470,AndyGarcia,DianeKeaton,Undirected,2
+1471,AndyGarcia,EdHarris,Undirected,1
+1472,AndyGarcia,Anne Hathaway,Undirected,2
+1473,AndyGarcia,JenniferLawrence,Undirected,1
+1474,AndyGarcia,ChrisPratt,Undirected,1
+1475,AndyGarcia,MelissaMcCarthy,Undirected,1
+1476,AndyGarcia,SigourneyWeaver,Undirected,1
+1477,AndyGarcia,KristenWiig,Undirected,1
+1478,AndyGarcia,DwayneJohnson,Undirected,1
+1479,AndyGarcia,GlennClose,Undirected,1
+1480,AndyGarcia,JeremyRenner,Undirected,1
+1481,AndyGarcia,VeraFarmiga,Undirected,1
+1482,AndyGarcia,JamieLeeCurtis,Undirected,1
+1483,AndyGarcia,DrewBarrymore,Undirected,1
+1484,AndyGarcia,RobinWright,Undirected,1
+1485,AndyGarcia,ChristinaRicci,Undirected,1
+1486,AndyGarcia,AlPacino,Undirected,2
+1487,AndyGarcia,MattDamon,Undirected,3
+1488,AndyGarcia,BradPitt,Undirected,3
+1489,AndyGarcia,ChrisPine,Undirected,1
+1490,AndyGarcia,JuliaRoberts,Undirected,2
+1491,AndyGarcia,BruceWillis,Undirected,1
+1492,AndyGarcia,AngelaBassett,Undirected,1
+1493,AndyGarcia,SamuelLJackson,Undirected,1
+1494,AndyGarcia,MichaelKeaton,Undirected,1
+1495,AndyGarcia,ChristopherWalken,Undirected,1
+1496,AndyGarcia,SteveBuscemi,Undirected,1
+1497,AndyGarcia,JohnMalkovich,Undirected,1
+1498,AndyGarcia,RobertDuwall,Undirected,1
+1499,DonCheadle,Natalie Portman,Undirected,2
+1500,DonCheadle,Scarlett Johansson,Undirected,6
+1501,DonCheadle,MichellePfeiffer,Undirected,1
+1502,DonCheadle,ZoeSaldana,Undirected,2
+1503,DonCheadle,MarisaTomei,Undirected,2
+1504,DonCheadle,AngelaBassett,Undirected,1
+1505,DonCheadle,SamuelLJackson,Undirected,6
+1506,DonCheadle,MarkRuffalo,Undirected,5
+1507,DonCheadle,BradleyCooper,Undirected,2
+1508,DonCheadle,RobertDowneyJr,Undirected,6
+1509,DonCheadle,RobertRedfort,Undirected,1
+1510,DonCheadle,JeremyRenner,Undirected,3
+1511,DonCheadle,ChrisPratt,Undirected,2
+1512,DonCheadle,MichaelDouglas,Undirected,2
+1513,DonCheadle,ChrisEvans,Undirected,4
+1514,DonCheadle,KristenBell,Undirected,1
+1515,DonCheadle,PeterDinklage,Undirected,1
+1516,DonCheadle,DenzelWashington,Undirected,2
+1517,DonCheadle,AlPacino,Undirected,1
+1518,DonCheadle,MattDamon,Undirected,2
+1519,DonCheadle,BradPitt,Undirected,2
+1520,DonCheadle,AndyGarcia,Undirected,3
+1521,DonCheadle,LivTyler,Undirected,1
+1522,DonCheadle,AdamSandler,Undirected,1
+1523,DonCheadle,SalmaHayek,Undirected,1
+1524,DonCheadle,EdwardNorton,Undirected,1
+1525,DonCheadle,WoodyHarrelson,Undirected,1
+1526,DonCheadle,Sandra Bullock,Undirected,1
+1527,DonCheadle,NaomiWatts,Undirected,1
+1528,DonCheadle,SeanPenn,Undirected,1
+1529,DonCheadle,KerryWashington,Undirected,1
+1530,DonCheadle,JuliaRoberts,Undirected,1
+1531,DonCheadle,HalleBerry,Undirected,2
+1532,DonCheadle,ZooeyDeschanel,Undirected,1
+1533,DonCheadle,MichaelKeaton,Undirected,1
+1534,DonCheadle,JulianneMoore,Undirected,1
+1535,DonCheadle,WilliamHMacy,Undirected,1
+1536,DonCheadle,MarkWahlberg,Undirected,1
+1537,DonCheadle,TommyLeeJones,Undirected,1
+1538,DonCheadle,ChristopherWalken,Undirected,1
+1539,DonCheadle,SteveBuscemi,Undirected,1
+1540,DonCheadle,BettyWhite,Undirected,1
+1541,BenAffleck,EdHarris,Undirected,1
+1542,BenAffleck,Anne Hathaway,Undirected,1
+1543,BenAffleck,WillemDafoe,Undirected,1
+1544,BenAffleck,RosarioDawson,Undirected,3
+1545,BenAffleck,MattDamon,Undirected,9
+1546,BenAffleck,DianeLane,Undirected,3
+1547,BenAffleck,AmyAdams,Undirected,2
+1548,BenAffleck,RobinWright,Undirected,2
+1549,BenAffleck,ZoeSaldana,Undirected,1
+1550,BenAffleck,AnnaKendrick,Undirected,1
+1551,BenAffleck,ViolaDavis,Undirected,2
+1552,BenAffleck,BryanCranston,Undirected,1
+1553,BenAffleck,JeremyRenner,Undirected,1
+1554,BenAffleck,TommyLeeJones,Undirected,1
+1555,BenAffleck,MilaKunis,Undirected,1
+1556,BenAffleck,KristenWiig,Undirected,1
+1557,BenAffleck,Scarlett Johansson,Undirected,1
+1558,BenAffleck,JenniferAniston,Undirected,1
+1559,BenAffleck,DrewBarrymore,Undirected,1
+1560,BenAffleck,JenniferConnelly,Undirected,1
+1561,BenAffleck,BradleyCooper,Undirected,1
+1562,BenAffleck,ChrisPine,Undirected,1
+1563,BenAffleck,AndyGarcia,Undirected,1
+1564,BenAffleck,ChristinaApplegate,Undirected,1
+1565,BenAffleck,LivTyler,Undirected,2
+1566,BenAffleck,ChristopherWalken,Undirected,1
+1567,BenAffleck,AlPacino,Undirected,1
+1568,BenAffleck,JenniferGarner,Undirected,2
+1569,BenAffleck,MelissaMcCarthy,Undirected,1
+1570,BenAffleck,MorganFreeman,Undirected,1
+1571,BenAffleck,SamuelLJackson,Undirected,1
+1572,BenAffleck,JamieLeeCurtis,Undirected,1
+1573,BenAffleck,Charlize Theron,Undirected,1
+1574,BenAffleck,SalmaHayek,Undirected,1
+1575,BenAffleck,Sandra Bullock,Undirected,1
+1576,BenAffleck,KateHudson,Undirected,1
+1577,BenAffleck,ChristinaRicci,Undirected,1
+1578,BenAffleck,BruceWillis,Undirected,1
+1579,BenAffleck,SteveBuscemi,Undirected,1
+1580,BenAffleck,MatthewMcConaughey,Undirected,1
+1581,BenAffleck,MillaJovovich,Undirected,1
+1582,SanleyTucci,KristenBell,Undirected,2
+1583,SanleyTucci,Anne Hathaway,Undirected,1
+1584,SanleyTucci,AngelaBassett,Undirected,3
+1585,SanleyTucci,HilarySwank,Undirected,2
+1586,SanleyTucci,OliviaWilde,Undirected,1
+1587,SanleyTucci,JohnTurturro,Undirected,2
+1588,SanleyTucci,SteveBuscemi,Undirected,2
+1589,SanleyTucci,MarkWahlberg,Undirected,3
+1590,SanleyTucci,JessicaLange,Undirected,1
+1591,SanleyTucci,SusanSarandon,Undirected,5
+1592,SanleyTucci,JenniferLawrence,Undirected,4
+1593,SanleyTucci,JulianneMoore,Undirected,2
+1594,SanleyTucci,ElizabethBanks,Undirected,4
+1595,SanleyTucci,WoodyHarrelson,Undirected,4
+1596,SanleyTucci,MarkRuffalo,Undirected,1
+1597,SanleyTucci,MichaelKeaton,Undirected,1
+1598,SanleyTucci,SalmaHayek,Undirected,1
+1599,SanleyTucci,TinaFey,Undirected,1
+1600,SanleyTucci,ChloëGraceMoretz,Undirected,1
+1601,SanleyTucci,LauraLinney,Undirected,1
+1602,SanleyTucci,AnnaKendrick,Undirected,1
+1603,SanleyTucci,RobertRedfort,Undirected,1
+1604,SanleyTucci,TommyLeeJones,Undirected,1
+1605,SanleyTucci,SamuelLJackson,Undirected,2
+1606,SanleyTucci,ChrisEvans,Undirected,1
+1607,SanleyTucci,Emma Stone,Undirected,1
+1608,SanleyTucci,Meryl Streep,Undirected,1
+1609,SanleyTucci,AmyAdams,Undirected,1
+1610,SanleyTucci,SigourneyWeaver,Undirected,1
+1611,SanleyTucci,SallyField,Undirected,1
+1612,SanleyTucci,KirstenDunst,Undirected,1
+1613,SanleyTucci,RobinWright,Undirected,1
+1614,SanleyTucci,BruceWillis,Undirected,2
+1615,SanleyTucci,SeanPenn,Undirected,1
+1616,SanleyTucci,MorganFreeman,Undirected,1
+1617,SanleyTucci,HalleBerry,Undirected,1
+1618,SanleyTucci,ZoeSaldana,Undirected,1
+1619,SanleyTucci,TomHanks,Undirected,2
+1620,SanleyTucci,Charlize Theron,Undirected,1
+1621,SanleyTucci,ZooeyDeschanel,Undirected,1
+1622,SanleyTucci,JuliaRoberts,Undirected,1
+1623,SanleyTucci,ChristopherWalken,Undirected,1
+1624,SanleyTucci,RosarioDawson,Undirected,1
+1625,SanleyTucci,MichellePfeiffer,Undirected,1
+1626,SanleyTucci,JenniferGarner,Undirected,1
+1627,SanleyTucci,ElisabethShue,Undirected,1
+1628,SanleyTucci,JuliaLouisDreyfus,Undirected,1
+1629,SanleyTucci,HelenHunt,Undirected,1
+1630,BillMurray,Emma Stone,Undirected,3
+1631,BillMurray,RosarioDawson,Undirected,1
+1632,BillMurray,SteveBuscemi,Undirected,2
+1633,BillMurray,Scarlett Johansson,Undirected,3
+1634,BillMurray,FrancesMcDormand,Undirected,2
+1635,BillMurray,EdwardNorton,Undirected,3
+1636,BillMurray,HarveyKeitel,Undirected,3
+1637,BillMurray,BryanCranston,Undirected,1
+1638,BillMurray,MelissaMcCarthy,Undirected,3
+1639,BillMurray,SigourneyWeaver,Undirected,1
+1640,BillMurray,KristenWiig,Undirected,1
+1641,BillMurray,AndyGarcia,Undirected,2
+1642,BillMurray,ChristopherWalken,Undirected,1
+1643,BillMurray,KateHudson,Undirected,1
+1644,BillMurray,ZooeyDeschanel,Undirected,1
+1645,BillMurray,BruceWillis,Undirected,2
+1646,BillMurray,BradleyCooper,Undirected,1
+1647,BillMurray,NaomiWatts,Undirected,1
+1648,BillMurray,WillemDafoe,Undirected,3
+1649,BillMurray,MattDamon,Undirected,1
+1650,BillMurray,LauraLinney,Undirected,1
+1651,BillMurray,Meryl Streep,Undirected,1
+1652,BillMurray,WoodyHarrelson,Undirected,2
+1653,BillMurray,RobertDuwall,Undirected,1
+1654,BillMurray,Natalie Portman,Undirected,2
+1655,BillMurray,JenniferLoveHewitt,Undirected,2
+1656,BillMurray,JessicaLange,Undirected,1
+1657,BillMurray,ElizabethBanks,Undirected,1
+1658,BillMurray,GlennClose,Undirected,1
+1659,BillMurray,MelGibson,Undirected,1
+1660,BillMurray,SusanSarandon,Undirected,1
+1661,BillMurray,JohnTurturro,Undirected,1
+1662,BillMurray,MatthewMcConaughey,Undirected,1
+1663,JackNicholson,Reese Witherspoon,Undirected,1
+1664,JackNicholson,SeanPenn,Undirected,1
+1665,JackNicholson,MorganFreeman,Undirected,1
+1666,JackNicholson,VeraFarmiga,Undirected,1
+1667,JackNicholson,MattDamon,Undirected,1
+1668,JackNicholson,MarkWahlberg,Undirected,1
+1669,JackNicholson,DianeKeaton,Undirected,1
+1670,JackNicholson,FrancesMcDormand,Undirected,1
+1671,JackNicholson,KeanuReeves,Undirected,1
+1672,JackNicholson,MarisaTomei,Undirected,1
+1673,JackNicholson,WoodyHarrelson,Undirected,1
+1674,JackNicholson,JohnTurturro,Undirected,1
+1675,JackNicholson,AdamSandler,Undirected,1
+1676,JackNicholson,KathyBates,Undirected,1
+1677,JackNicholson,RobinWright,Undirected,1
+1678,JackNicholson,HelenHunt,Undirected,1
+1679,JackNicholson,Natalie Portman,Undirected,2
+1680,PaulRudd,AmyPoehler,Undirected,6
+1681,PaulRudd,ChrisPratt,Undirected,2
+1682,PaulRudd,OliviaWilde,Undirected,1
+1683,PaulRudd,BruceWillis,Undirected,1
+1684,PaulRudd,PeterDinklage,Undirected,2
+1685,PaulRudd,Natalie Portman,Undirected,2
+1686,PaulRudd,Scarlett Johansson,Undirected,2
+1687,PaulRudd,MichellePfeiffer,Undirected,3
+1688,PaulRudd,ZoeSaldana,Undirected,1
+1689,PaulRudd,MarisaTomei,Undirected,2
+1690,PaulRudd,AngelaBassett,Undirected,1
+1691,PaulRudd,SamuelLJackson,Undirected,1
+1692,PaulRudd,MarkRuffalo,Undirected,1
+1693,PaulRudd,BradleyCooper,Undirected,2
+1694,PaulRudd,RobertDowneyJr,Undirected,2
+1695,PaulRudd,RobertRedfort,Undirected,1
+1696,PaulRudd,JeremyRenner,Undirected,2
+1697,PaulRudd,MichaelDouglas,Undirected,3
+1698,PaulRudd,DonCheadle,Undirected,2
+1699,PaulRudd,ChrisEvans,Undirected,2
+1700,PaulRudd,SalmaHayek,Undirected,1
+1701,PaulRudd,KristenWiig,Undirected,3
+1702,PaulRudd,EdwardNorton,Undirected,1
+1703,PaulRudd,ElizabethBanks,Undirected,6
+1704,PaulRudd,ChristinaApplegate,Undirected,2
+1705,PaulRudd,KirstenDunst,Undirected,1
+1706,PaulRudd,HarrisonFord,Undirected,1
+1707,PaulRudd,TinaFey,Undirected,1
+1708,PaulRudd,MelissaMcCarthy,Undirected,1
+1709,PaulRudd,JenniferAniston,Undirected,3
+1710,PaulRudd,ZooeyDeschanel,Undirected,1
+1711,PaulRudd,Reese Witherspoon,Undirected,3
+1712,PaulRudd,JackNicholson,Undirected,1
+1713,PaulRudd,RenéeZellweger,Undirected,1
+1714,PaulRudd,KristenBell,Undirected,1
+1715,PaulRudd,MilaKunis,Undirected,1
+1716,PaulRudd,WinonaRyder,Undirected,1
+1717,PaulRudd,AmyAdams,Undirected,1
+1718,PaulRudd,LauraLinney,Undirected,1
+1719,PaulRudd,Charlize Theron,Undirected,1
+1720,PaulRudd,KateHudson,Undirected,1
+1721,PaulRudd,ChristinaRicci,Undirected,1
+1722,PaulRudd,BenAffleck,Undirected,1
+1723,PaulRudd,ClaireDanes,Undirected,1
+1724,PaulGiamatti,PeterDinklage,Undirected,2
+1725,PaulGiamatti,PaulRudd,Undirected,1
+1726,PaulGiamatti,RosarioDawson,Undirected,1
+1727,PaulGiamatti,DwayneJohnson,Undirected,1
+1728,PaulGiamatti,ElizabethBanks,Undirected,2
+1729,PaulGiamatti,Emma Stone,Undirected,1
+1730,PaulGiamatti,SallyField,Undirected,1
+1731,PaulGiamatti,BradPitt,Undirected,1
+1732,PaulGiamatti,SamuelLJackson,Undirected,2
+1733,PaulGiamatti,RobinWright,Undirected,1
+1734,PaulGiamatti,HarveyKeitel,Undirected,1
+1735,PaulGiamatti,BryanCranston,Undirected,2
+1736,PaulGiamatti,MarisaTomei,Undirected,1
+1737,PaulGiamatti,BradleyCooper,Undirected,1
+1738,PaulGiamatti,JuliaRoberts,Undirected,2
+1739,PaulGiamatti,LauraLinney,Undirected,3
+1740,PaulGiamatti,KristenWiig,Undirected,1
+1741,PaulGiamatti,KathyBates,Undirected,1
+1742,PaulGiamatti,Scarlett Johansson,Undirected,1
+1743,PaulGiamatti,ChrisEvans,Undirected,1
+1744,PaulGiamatti,EdwardNorton,Undirected,1
+1745,PaulGiamatti,RenéeZellweger,Undirected,1
+1746,PaulGiamatti,HalleBerry,Undirected,1
+1747,PaulGiamatti,SanleyTucci,Undirected,2
+1748,PaulGiamatti,BenAffleck,Undirected,1
+1749,PaulGiamatti,AndyGarcia,Undirected,1
+1750,PaulGiamatti,SusanSarandon,Undirected,1
+1751,PaulGiamatti,JohnTurturro,Undirected,1
+1752,PaulGiamatti,BillMurray,Undirected,1
+1753,PaulGiamatti,MarkRuffalo,Undirected,1
+1754,PaulGiamatti,TomHanks,Undirected,1
+1755,PaulGiamatti,MattDamon,Undirected,1
+1756,PaulGiamatti,EdHarris,Undirected,1
+1757,PaulGiamatti,JenniferGarner,Undirected,1
+1758,PaulGiamatti,ElisabethShue,Undirected,1
+1759,PaulGiamatti,JuliaLouisDreyfus,Undirected,1
+1760,PaulGiamatti,JohnnyDepp,Undirected,1
+1761,PaulGiamatti,AlPacino,Undirected,1
+1762,NeilPatrickHarris,Meryl Streep,Undirected,1
+1763,NeilPatrickHarris,MattDamon,Undirected,1
+1764,NeilPatrickHarris,BenAffleck,Undirected,1
+1765,NeilPatrickHarris,Charlize Theron,Undirected,1
+1766,NeilPatrickHarris,AmandaSeyfried,Undirected,1
+1767,NeilPatrickHarris,ChristinaRicci,Undirected,1
+1768,NeilPatrickHarris,AmyAdams,Undirected,1
+1769,NeilPatrickHarris,ChristinaApplegate,Undirected,1
+1770,JaredLeto,RobinWright,Undirected,1
+1771,JaredLeto,HarrisonFord,Undirected,1
+1772,JaredLeto,ViolaDavis,Undirected,1
+1773,JaredLeto,BenAffleck,Undirected,1
+1774,JaredLeto,SalmaHayek,Undirected,1
+1775,JaredLeto,AngelinaJolie,Undirected,2
+1776,JaredLeto,RosarioDawson,Undirected,1
+1777,JaredLeto,JodieFoster,Undirected,1
+1778,JaredLeto,JenniferConnelly,Undirected,1
+1779,JaredLeto,Reese Witherspoon,Undirected,1
+1780,JaredLeto,WillemDafoe,Undirected,1
+1781,JaredLeto,WinonaRyder,Undirected,2
+1782,JaredLeto,EdwardNorton,Undirected,1
+1783,JaredLeto,BradPitt,Undirected,1
+1784,JaredLeto,WoodyHarrelson,Undirected,1
+1785,JaredLeto,SeanPenn,Undirected,1
+1786,JaredLeto,ClaireDanes,Undirected,2
+1787,JamesSpader,Scarlett Johansson,Undirected,1
+1788,JamesSpader,SamuelLJackson,Undirected,1
+1789,JamesSpader,MarkRuffalo,Undirected,1
+1790,JamesSpader,RobertDowneyJr,Undirected,1
+1791,JamesSpader,JeremyRenner,Undirected,1
+1792,JamesSpader,ChrisEvans,Undirected,1
+1793,JamesSpader,DonCheadle,Undirected,2
+1794,JamesSpader,Meryl Streep,Undirected,1
+1795,JamesSpader,HilarySwank,Undirected,1
+1796,JamesSpader,TommyLeeJones,Undirected,2
+1797,JamesSpader,SallyField,Undirected,1
+1798,JamesSpader,KathyBates,Undirected,1
+1799,JamesSpader,WilliamHMacy,Undirected,1
+1800,JamesSpader,BettyWhite,Undirected,2
+1801,JamesSpader,BillMurray,Undirected,1
+1802,JamesSpader,MarisaTomei,Undirected,1
+1803,JamesSpader,KeanuReeves,Undirected,1
+1804,JamesSpader,AngelaBassett,Undirected,1
+1805,JamesSpader,SanleyTucci,Undirected,1
+1806,JamesSpader,Charlize Theron,Undirected,1
+1807,JamesSpader,Sandra Bullock,Undirected,1
+1808,JeffGoldblum,ChrisPratt,Undirected,1
+1809,JeffGoldblum,Scarlett Johansson,Undirected,1
+1810,JeffGoldblum,FrancesMcDormand,Undirected,1
+1811,JeffGoldblum,EdwardNorton,Undirected,2
+1812,JeffGoldblum,HarveyKeitel,Undirected,2
+1813,JeffGoldblum,BryanCranston,Undirected,1
+1814,JeffGoldblum,BillMurray,Undirected,3
+1815,JeffGoldblum,MarkRuffalo,Undirected,1
+1816,JeffGoldblum,MattDamon,Undirected,1
+1817,JeffGoldblum,JohnnyDepp,Undirected,1
+1818,JeffGoldblum,WillemDafoe,Undirected,3
+1819,JeffGoldblum,DianeKeaton,Undirected,1
+1820,JeffGoldblum,HarrisonFord,Undirected,1
+1821,JeffGoldblum,JenniferAniston,Undirected,1
+1822,JeffGoldblum,TinaFey,Undirected,1
+1823,JeffGoldblum,AmyPoehler,Undirected,1
+1824,JeffGoldblum,LauraLinney,Undirected,1
+1825,JeffGoldblum,ChristopherWalken,Undirected,1
+1826,JeffGoldblum,SusanSarandon,Undirected,2
+1827,JeffGoldblum,ClaireDanes,Undirected,1
+1828,JeffGoldblum,SalmaHayek,Undirected,1
+1829,JeffGoldblum,Sandra Bullock,Undirected,1
+1830,JeffGoldblum,MichellePfeiffer,Undirected,1
+1831,JeffGoldblum,GlennClose,Undirected,1
+1832,JeffGoldblum,MatthewMcConaughey,Undirected,1
+1833,JeffGoldblum,WoodyHarrelson,Undirected,1
+1834,JeffGoldblum,BettyWhite,Undirected,1
+1835,JeffGoldblum,JulianneMoore,Undirected,2
+1836,JeffGoldblum,DianeLane,Undirected,1
+1837,JeffGoldblum,SamuelLJackson,Undirected,1
+1838,JoaquinPhoenix,Emma Stone,Undirected,1
+1839,JoaquinPhoenix,Reese Witherspoon,Undirected,1
+1840,JoaquinPhoenix,AmyAdams,Undirected,2
+1841,JoaquinPhoenix,OliviaWilde,Undirected,1
+1842,JoaquinPhoenix,KristenWiig,Undirected,1
+1843,JoaquinPhoenix,ChrisPratt,Undirected,1
+1844,JoaquinPhoenix,JeremyRenner,Undirected,1
+1845,JoaquinPhoenix,SeanPenn,Undirected,3
+1846,JoaquinPhoenix,JackNicholson,Undirected,1
+1847,JoaquinPhoenix,JenniferConnelly,Undirected,1
+1848,JoaquinPhoenix,MarkRuffalo,Undirected,1
+1849,JoaquinPhoenix,RobertDuwall,Undirected,1
+1850,JoaquinPhoenix,MarkWahlberg,Undirected,2
+1851,JoaquinPhoenix,DonCheadle,Undirected,1
+1852,JoaquinPhoenix,SigourneyWeaver,Undirected,1
+1853,JoaquinPhoenix,ClaireDanes,Undirected,2
+1854,JoaquinPhoenix,MelGibson,Undirected,1
+1855,JoaquinPhoenix,EdHarris,Undirected,1
+1856,JoaquinPhoenix,Charlize Theron,Undirected,1
+1857,JoaquinPhoenix,FayeDunaway,Undirected,1
+1858,JoaquinPhoenix,VeraFarmiga,Undirected,1
+1859,JoaquinPhoenix,LivTyler,Undirected,1
+1860,JoaquinPhoenix,NicoleKidman,Undirected,1
+1861,MichaelJFox,MilaKunis,Undirected,1
+1862,MichaelJFox,JenniferLoveHewitt,Undirected,1
+1863,MichaelJFox,BettyWhite,Undirected,1
+1864,MichaelJFox,JamesSpader,Undirected,1
+1865,MichaelJFox,KurtRussell,Undirected,1
+1866,MichaelJFox,Natalie Portman,Undirected,2
+1867,MichaelJFox,JackNicholson,Undirected,1
+1868,MichaelJFox,MichaelDouglas,Undirected,1
+1869,MichaelJFox,HarveyKeitel,Undirected,1
+1870,JamesFranco,MillaJovovich,Undirected,1
+1871,JamesFranco,SharonStone,Undirected,2
+1872,JamesFranco,BryanCranston,Undirected,3
+1873,JamesFranco,RobertDuwall,Undirected,2
+1874,JamesFranco,EdHarris,Undirected,2
+1875,JamesFranco,Natalie Portman,Undirected,6
+1876,JamesFranco,SalmaHayek,Undirected,1
+1877,JamesFranco,KristenWiig,Undirected,3
+1878,JamesFranco,EdwardNorton,Undirected,1
+1879,JamesFranco,PaulRudd,Undirected,2
+1880,JamesFranco,OliviaWilde,Undirected,2
+1881,JamesFranco,NicoleKidman,Undirected,1
+1882,JamesFranco,KateHudson,Undirected,2
+1883,JamesFranco,JohnMalkovich,Undirected,1
+1884,JamesFranco,WinonaRyder,Undirected,3
+1885,JamesFranco,MilaKunis,Undirected,4
+1886,JamesFranco,AmandaSeyfried,Undirected,1
+1887,JamesFranco,JessicaChastain,Undirected,1
+1888,JamesFranco,ChrisEvans,Undirected,1
+1889,JamesFranco,ZooeyDeschanel,Undirected,1
+1890,JamesFranco,TinaFey,Undirected,1
+1891,JamesFranco,MarkRuffalo,Undirected,1
+1892,JamesFranco,MarkWahlberg,Undirected,1
+1893,JamesFranco,SeanPenn,Undirected,1
+1894,JamesFranco,Charlize Theron,Undirected,1
+1895,JamesFranco,SusanSarandon,Undirected,1
+1896,JamesFranco,TommyLeeJones,Undirected,1
+1897,JamesFranco,MatthewMcConaughey,Undirected,1
+1898,JamesFranco,ElizabethBanks,Undirected,2
+1899,JamesFranco,KirstenDunst,Undirected,2
+1900,JamesFranco,WillemDafoe,Undirected,2
+1901,JamesFranco,FrancesMcDormand,Undirected,1
+1902,JohnCusack,ChristinaRicci,Undirected,1
+1903,JohnCusack,MarkRuffalo,Undirected,1
+1904,JohnCusack,SamuelLJackson,Undirected,3
+1905,JohnCusack,AngelaBassett,Undirected,1
+1906,JohnCusack,ElizabethBanks,Undirected,1
+1907,JohnCusack,PaulGiamatti,Undirected,2
+1908,JohnCusack,BruceWillis,Undirected,1
+1909,JohnCusack,JulianneMoore,Undirected,2
+1910,JohnCusack,AlPacino,Undirected,2
+1911,JohnCusack,NicoleKidman,Undirected,1
+1912,JohnCusack,MatthewMcConaughey,Undirected,1
+1913,JohnCusack,WoodyHarrelson,Undirected,2
+1914,JohnCusack,SteveBuscemi,Undirected,2
+1915,JohnCusack,MarisaTomei,Undirected,2
+1916,JohnCusack,MorganFreeman,Undirected,1
+1917,JohnCusack,DianeLane,Undirected,1
+1918,JohnCusack,JuliaRoberts,Undirected,1
+1919,JohnCusack,ChristopherWalken,Undirected,1
+1920,JohnCusack,SanleyTucci,Undirected,1
+1921,JohnCusack,BradPitt,Undirected,1
+1922,JohnCusack,JohnMalkovich,Undirected,2
+1923,JohnCusack,SeanPenn,Undirected,2
+1924,JohnCusack,SusanSarandon,Undirected,1
+1925,JohnCusack,JohnTurturro,Undirected,1
+1926,JohnCusack,BillMurray,Undirected,1
+1927,JohnCusack,AngelinaJolie,Undirected,1
+1928,JohnCusack,JaredLeto,Undirected,1
+1929,TomCruise,AngelaBassett,Undirected,1
+1930,TomCruise,JeremyRenner,Undirected,2
+1931,TomCruise,MorganFreeman,Undirected,2
+1932,TomCruise,RobertDuwall,Undirected,1
+1933,TomCruise,BryanCranston,Undirected,1
+1934,TomCruise,PaulGiamatti,Undirected,1
+1935,TomCruise,ViolaDavis,Undirected,1
+1936,TomCruise,JenniferLoveHewitt,Undirected,1
+1937,TomCruise,MatthewMcConaughey,Undirected,1
+1938,TomCruise,RobertDowneyJr,Undirected,1
+1939,TomCruise,Meryl Streep,Undirected,1
+1940,TomCruise,RobertRedfort,Undirected,1
+1941,TomCruise,KeriRussell,Undirected,1
+1942,TomCruise,MarkRuffalo,Undirected,1
+1943,TomCruise,KurtRussell,Undirected,1
+1944,TomCruise,JulianneMoore,Undirected,1
+1945,TomCruise,WilliamHMacy,Undirected,1
+1946,TomCruise,NicoleKidman,Undirected,1
+1947,TomCruise,RenéeZellweger,Undirected,1
+1948,LeonardoDiCaprio,AlPacino,Undirected,1
+1949,LeonardoDiCaprio,TomHardy,Undirected,2
+1950,LeonardoDiCaprio,MatthewMcConaughey,Undirected,1
+1951,LeonardoDiCaprio,KerryWashington,Undirected,1
+1952,LeonardoDiCaprio,SamuelLJackson,Undirected,1
+1953,LeonardoDiCaprio,NaomiWatts,Undirected,1
+1954,LeonardoDiCaprio,MarkRuffalo,Undirected,1
+1955,LeonardoDiCaprio,KathyBates,Undirected,2
+1956,LeonardoDiCaprio,JenniferConnelly,Undirected,1
+1957,LeonardoDiCaprio,VeraFarmiga,Undirected,1
+1958,LeonardoDiCaprio,MattDamon,Undirected,1
+1959,LeonardoDiCaprio,MarkWahlberg,Undirected,2
+1960,LeonardoDiCaprio,JackNicholson,Undirected,1
+1961,LeonardoDiCaprio,WillemDafoe,Undirected,1
+1962,LeonardoDiCaprio,JenniferGarner,Undirected,1
+1963,LeonardoDiCaprio,ElizabethBanks,Undirected,1
+1964,LeonardoDiCaprio,AmyAdams,Undirected,1
+1965,LeonardoDiCaprio,TomHanks,Undirected,1
+1966,LeonardoDiCaprio,ChristopherWalken,Undirected,1
+1967,LeonardoDiCaprio,Charlize Theron,Undirected,1
+1968,LeonardoDiCaprio,JohnMalkovich,Undirected,1
+1969,LeonardoDiCaprio,Meryl Streep,Undirected,1
+1970,LeonardoDiCaprio,DianeKeaton,Undirected,1
+1971,LeonardoDiCaprio,ClaireDanes,Undirected,1
+1972,LeonardoDiCaprio,PaulRudd,Undirected,1
+1973,LeonardoDiCaprio,SharonStone,Undirected,1
+1974,AlanAlda,SusanSarandon,Undirected,2
+1975,AlanAlda,Scarlett Johansson,Undirected,1
+1976,AlanAlda,JessicaLange,Undirected,1
+1977,AlanAlda,TomHanks,Undirected,1
+1978,AlanAlda,LauraLinney,Undirected,1
+1979,AlanAlda,JenniferAniston,Undirected,2
+1980,AlanAlda,PaulRudd,Undirected,2
+1981,AlanAlda,VeraFarmiga,Undirected,1
+1982,AlanAlda,AngelaBassett,Undirected,2
+1983,AlanAlda,WillemDafoe,Undirected,1
+1984,AlanAlda,LeonardoDiCaprio,Undirected,1
+1985,AlanAlda,MarisaTomei,Undirected,1
+1986,AlanAlda,HelenHunt,Undirected,1
+1987,AlanAlda,MelGibson,Undirected,1
+1988,AlanAlda,SallyField,Undirected,1
+1989,AlanAlda,KirstenDunst,Undirected,1
+1990,AlanAlda,SanleyTucci,Undirected,1
+1991,AlanAlda,DianeLane,Undirected,1
+1992,AlanAlda,Natalie Portman,Undirected,2
+1993,AlanAlda,JuliaRoberts,Undirected,1
+1994,AlanAlda,EdwardNorton,Undirected,1
+1995,DannyDeVito,AngelinaJolie,Undirected,1
+1996,DannyDeVito,BryanCranston,Undirected,1
+1997,DannyDeVito,MichaelKeaton,Undirected,1
+1998,DannyDeVito,HarveyKeitel,Undirected,3
+1999,DannyDeVito,RosarioDawson,Undirected,2
+2000,DannyDeVito,BettyWhite,Undirected,1
+2001,DannyDeVito,SeanPenn,Undirected,1
+2002,DannyDeVito,JackNicholson,Undirected,2
+2003,DannyDeVito,JoaquinPhoenix,Undirected,1
+2004,DannyDeVito,SusanSarandon,Undirected,1
+2005,DannyDeVito,MichaelDouglas,Undirected,1
+2006,DannyDeVito,MelissaMcCarthy,Undirected,2
+2007,DannyDeVito,PaulRudd,Undirected,2
+2008,DannyDeVito,MorganFreeman,Undirected,1
+2009,DannyDeVito,KathyBates,Undirected,1
+2010,DannyDeVito,UmaThurman,Undirected,1
+2011,DannyDeVito,DwayneJohnson,Undirected,2
+2012,DannyDeVito,MarisaTomei,Undirected,1
+2013,DannyDeVito,SteveBuscemi,Undirected,1
+2014,DannyDeVito,DrewBarrymore,Undirected,1
+2015,DannyDeVito,ChristinaRicci,Undirected,1
+2016,DannyDeVito,TomCruise,Undirected,1
+2017,DannyDeVito,EdwardNorton,Undirected,1
+2018,DannyDeVito,JamieLeeCurtis,Undirected,1
+2019,DannyDeVito,KirstenDunst,Undirected,1
+2020,DannyDeVito,ClaireDanes,Undirected,1
+2021,DannyDeVito,MattDamon,Undirected,1
+2022,DannyDeVito,Natalie Portman,Undirected,2
+2023,DannyDeVito,MichaelJFox,Undirected,1
+2024,DannyDeVito,BillMurray,Undirected,1
+2025,WillSmith,ViolaDavis,Undirected,1
+2026,WillSmith,BenAffleck,Undirected,1
+2027,WillSmith,JaredLeto,Undirected,1
+2028,WillSmith,WilliamHMacy,Undirected,1
+2029,WillSmith,JenniferConnelly,Undirected,1
+2030,WillSmith,ChristinaApplegate,Undirected,1
+2031,WillSmith,KirstenDunst,Undirected,1
+2032,WillSmith,KristenWiig,Undirected,1
+2033,WillSmith,HarrisonFord,Undirected,1
+2034,WillSmith,PaulRudd,Undirected,1
+2035,WillSmith,TommyLeeJones,Undirected,3
+2036,WillSmith,RosarioDawson,Undirected,2
+2037,WillSmith,WoodyHarrelson,Undirected,1
+2038,WillSmith,Charlize Theron,Undirected,1
+2039,WillSmith,AngelinaJolie,Undirected,1
+2040,WillSmith,RenéeZellweger,Undirected,1
+2041,WillSmith,SalmaHayek,Undirected,1
+2042,WillSmith,JeffGoldblum,Undirected,1
+2043,JosephGordonLevitt,MichaelKeaton,Undirected,1
+2044,JosephGordonLevitt,JamieLeeCurtis,Undirected,2
+2045,JosephGordonLevitt,ChrisEvans,Undirected,1
+2046,JosephGordonLevitt,JamesFranco,Undirected,1
+2047,JosephGordonLevitt,RosarioDawson,Undirected,2
+2048,JosephGordonLevitt,SanleyTucci,Undirected,1
+2049,JosephGordonLevitt,Scarlett Johansson,Undirected,1
+2050,JosephGordonLevitt,JulianneMoore,Undirected,1
+2051,JosephGordonLevitt,SallyField,Undirected,1
+2052,JosephGordonLevitt,TommyLeeJones,Undirected,1
+2053,JosephGordonLevitt,JamesSpader,Undirected,1
+2054,JosephGordonLevitt,BruceWillis,Undirected,1
+2055,JosephGordonLevitt,Anne Hathaway,Undirected,2
+2056,JosephGordonLevitt,MorganFreeman,Undirected,1
+2057,JosephGordonLevitt,TomHardy,Undirected,2
+2058,JosephGordonLevitt,LeonardoDiCaprio,Undirected,1
+2059,JosephGordonLevitt,Natalie Portman,Undirected,2
+2060,JosephGordonLevitt,ChloëGraceMoretz,Undirected,1
+2061,JosephGordonLevitt,ZooeyDeschanel,Undirected,2
+2062,JosephGordonLevitt,DianeLane,Undirected,1
+2063,JosephGordonLevitt,KerryWashington,Undirected,1
+2064,JosephGordonLevitt,JohnTurturro,Undirected,1
+2065,JosephGordonLevitt,ElisabethShue,Undirected,1
+2066,JosephGordonLevitt,DonCheadle,Undirected,1
+2067,JosephGordonLevitt,SharonStone,Undirected,1
+2068,SteveCarell,Reese Witherspoon,Undirected,1
+2069,SteveCarell,AmyAdams,Undirected,1
+2070,SteveCarell,BruceWillis,Undirected,2
+2071,SteveCarell,BryanCranston,Undirected,2
+2072,SteveCarell,Emma Stone,Undirected,2
+2073,SteveCarell,ElisabethShue,Undirected,2
+2074,SteveCarell,KristenWiig,Undirected,4
+2075,SteveCarell,MarisaTomei,Undirected,2
+2076,SteveCarell,BradPitt,Undirected,1
+2077,SteveCarell,JulianneMoore,Undirected,2
+2078,SteveCarell,Sandra Bullock,Undirected,1
+2079,SteveCarell,MichaelKeaton,Undirected,1
+2080,SteveCarell,JenniferGarner,Undirected,1
+2081,SteveCarell,MarkRuffalo,Undirected,2
+2082,SteveCarell,ChristinaApplegate,Undirected,2
+2083,SteveCarell,KirstenDunst,Undirected,1
+2084,SteveCarell,HarrisonFord,Undirected,1
+2085,SteveCarell,PaulRudd,Undirected,4
+2086,SteveCarell,WillSmith,Undirected,1
+2087,SteveCarell,KathyBates,Undirected,1
+2088,SteveCarell,JamesSpader,Undirected,1
+2089,SteveCarell,OliviaWilde,Undirected,1
+2090,SteveCarell,SteveBuscemi,Undirected,1
+2091,SteveCarell,Meryl Streep,Undirected,1
+2092,SteveCarell,MilaKunis,Undirected,1
+2093,SteveCarell,TinaFey,Undirected,1
+2094,SteveCarell,MarkWahlberg,Undirected,1
+2095,SteveCarell,JamesFranco,Undirected,1
+2096,SteveCarell,Anne Hathaway,Undirected,1
+2097,SteveCarell,DwayneJohnson,Undirected,1
+2098,SteveCarell,AmyPoehler,Undirected,2
+2099,SteveCarell,MorganFreeman,Undirected,2
+2100,SteveCarell,ElizabethBanks,Undirected,1
+2101,SteveCarell,NicoleKidman,Undirected,1
+2102,SteveCarell,JuliaLouisDreyfus,Undirected,2
+2103,SteveCarell,JenniferAniston,Undirected,1
+2104,GarySinise,JulianneMoore,Undirected,1
+2105,GarySinise,MorganFreeman,Undirected,1
+2106,GarySinise,NicoleKidman,Undirected,1
+2107,GarySinise,KerryWashington,Undirected,1
+2108,GarySinise,EdHarris,Undirected,1
+2109,GarySinise,KathyBates,Undirected,1
+2110,GarySinise,DonCheadle,Undirected,1
+2111,GarySinise,Charlize Theron,Undirected,1
+2112,GarySinise,BenAffleck,Undirected,1
+2113,GarySinise,TomHanks,Undirected,1
+2114,GarySinise,HarveyKeitel,Undirected,1
+2115,GarySinise,MelGibson,Undirected,1
+2116,KevinCostner,DianeLane,Undirected,3
+2117,KevinCostner,AmandaSeyfried,Undirected,1
+2118,KevinCostner,WoodyHarrelson,Undirected,2
+2119,KevinCostner,JessicaChastain,Undirected,1
+2120,KevinCostner,KirstenDunst,Undirected,1
+2121,KevinCostner,TommyLeeJones,Undirected,2
+2122,KevinCostner,AmyAdams,Undirected,2
+2123,KevinCostner,BenAffleck,Undirected,2
+2124,KevinCostner,JenniferGarner,Undirected,1
+2125,KevinCostner,ChrisPine,Undirected,1
+2126,KevinCostner,SanleyTucci,Undirected,1
+2127,KevinCostner,JenniferAniston,Undirected,1
+2128,KevinCostner,MarkRuffalo,Undirected,1
+2129,KevinCostner,KeriRussell,Undirected,1
+2130,KevinCostner,RobertDuwall,Undirected,1
+2131,KevinCostner,KathyBates,Undirected,1
+2132,KevinCostner,KurtRussell,Undirected,1
+2133,KevinCostner,RobinWright,Undirected,1
+2134,JameEarlJones,KeriRussell,Undirected,1
+2135,JameEarlJones,SamuelLJackson,Undirected,2
+2136,JameEarlJones,HarrisonFord,Undirected,1
+2137,JameEarlJones,ChrisPine,Undirected,1
+2138,JameEarlJones,JenniferLoveHewitt,Undirected,1
+2139,JameEarlJones,MichaelJFox,Undirected,1
+2140,JameEarlJones,ChloëGraceMoretz,Undirected,1
+2141,JameEarlJones,ChristopherWalken,Undirected,1
+2142,JameEarlJones,AdamSandler,Undirected,1
+2143,JameEarlJones,Natalie Portman,Undirected,2
+2144,JameEarlJones,HalleBerry,Undirected,1
+2145,JameEarlJones,SanleyTucci,Undirected,1
+2146,JameEarlJones,PaulGiamatti,Undirected,1
+2147,JameEarlJones,KathyBates,Undirected,1
+2148,JameEarlJones,JosephGordonLevitt,Undirected,1
+2149,JameEarlJones,RobertDuwall,Undirected,1
+2150,RobertDeNiro,UmaThurman,Undirected,1
+2151,RobertDeNiro,ChristopherWalken,Undirected,1
+2152,RobertDeNiro,HarveyKeitel,Undirected,5
+2153,RobertDeNiro,AlPacino,Undirected,2
+2154,RobertDeNiro,JoaquinPhoenix,Undirected,1
+2155,RobertDeNiro,MichellePfeiffer,Undirected,3
+2156,RobertDeNiro,DannyDeVito,Undirected,2
+2157,RobertDeNiro,JohnTurturro,Undirected,3
+2158,RobertDeNiro,JenniferLawrence,Undirected,2
+2159,RobertDeNiro,BradleyCooper,Undirected,3
+2160,RobertDeNiro,Anne Hathaway,Undirected,1
+2161,RobertDeNiro,JohnCusack,Undirected,1
+2162,RobertDeNiro,MorganFreeman,Undirected,1
+2163,RobertDeNiro,MichaelDouglas,Undirected,1
+2164,RobertDeNiro,TommyLeeJones,Undirected,1
+2165,RobertDeNiro,SamuelLJackson,Undirected,2
+2166,RobertDeNiro,AmandaSeyfried,Undirected,1
+2167,RobertDeNiro,DianeKeaton,Undirected,2
+2168,RobertDeNiro,SusanSarandon,Undirected,1
+2169,RobertDeNiro,SigourneyWeaver,Undirected,1
+2170,RobertDeNiro,MillaJovovich,Undirected,1
+2171,RobertDeNiro,EdwardNorton,Undirected,2
+2172,RobertDeNiro,DrewBarrymore,Undirected,1
+2173,RobertDeNiro,RobinWright,Undirected,1
+2174,RobertDeNiro,BruceWillis,Undirected,1
+2175,RobertDeNiro,SeanPenn,Undirected,1
+2176,RobertDeNiro,SanleyTucci,Undirected,1
+2177,RobertDeNiro,ClaireDanes,Undirected,1
+2178,RobertDeNiro,AngelinaJolie,Undirected,2
+2179,RobertDeNiro,MattDamon,Undirected,1
+2180,RobertDeNiro,ElisabethShue,Undirected,1
+2181,RobertDeNiro,KathyBates,Undirected,1
+2182,RobertDeNiro,RenéeZellweger,Undirected,1
+2183,RobertDeNiro,WillSmith,Undirected,1
+2184,RobertDeNiro,FrancesMcDormand,Undirected,1
+2185,RobertDeNiro,JamesFranco,Undirected,1
+2186,RobertDeNiro,AngelaBassett,Undirected,1
+2187,RobertDeNiro,Charlize Theron,Undirected,2
+2188,RobertDeNiro,VeraFarmiga,Undirected,1
+2189,RobertDeNiro,KirstenDunst,Undirected,1
+2190,RobertDeNiro,WoodyHarrelson,Undirected,1
+2191,RobertDeNiro,MichaelKeaton,Undirected,1
+2192,RobertDeNiro,Meryl Streep,Undirected,1
+2193,RobertDeNiro,LeonardoDiCaprio,Undirected,1
+2194,RobertDeNiro,BradPitt,Undirected,1
+2195,RobertDeNiro,Natalie Portman,Undirected,2
+2196,RobertDeNiro,SharonStone,Undirected,1
+2197,ViggoMortensen,LauraLinney,Undirected,1
+2198,ViggoMortensen,KirstenDunst,Undirected,2
+2199,ViggoMortensen,SteveBuscemi,Undirected,2
+2200,ViggoMortensen,Charlize Theron,Undirected,1
+2201,ViggoMortensen,RobertDuwall,Undirected,1
+2202,ViggoMortensen,RenéeZellweger,Undirected,1
+2203,ViggoMortensen,EdHarris,Undirected,2
+2204,ViggoMortensen,NaomiWatts,Undirected,1
+2205,ViggoMortensen,LivTyler,Undirected,3
+2206,ViggoMortensen,Sandra Bullock,Undirected,1
+2207,ViggoMortensen,DianeLane,Undirected,1
+2208,ViggoMortensen,JulianneMoore,Undirected,1
+2209,ViggoMortensen,WilliamHMacy,Undirected,1
+2210,ViggoMortensen,MichaelDouglas,Undirected,1
+2211,ViggoMortensen,GarySinise,Undirected,1
+2212,ViggoMortensen,NicoleKidman,Undirected,1
+2213,ViggoMortensen,JohnMalkovich,Undirected,1
+2214,ViggoMortensen,DenzelWashington,Undirected,1
+2215,ViggoMortensen,ChristopherWalken,Undirected,1
+2216,Nicolas Cage,Emma Stone,Undirected,2
+2217,Nicolas Cage,PeterDinklage,Undirected,1
+2218,Nicolas Cage,ChrisPine,Undirected,1
+2219,Nicolas Cage,FayeDunaway,Undirected,1
+2220,Nicolas Cage,JohnCusack,Undirected,3
+2221,Nicolas Cage,JosephGordonLevitt,Undirected,1
+2222,Nicolas Cage,WillemDafoe,Undirected,1
+2223,Nicolas Cage,JessicaChastain,Undirected,1
+2224,Nicolas Cage,NicoleKidman,Undirected,1
+2225,Nicolas Cage,Charlize Theron,Undirected,1
+2226,Nicolas Cage,KristenBell,Undirected,1
+2227,Nicolas Cage,SteveBuscemi,Undirected,3
+2228,Nicolas Cage,EdHarris,Undirected,2
+2229,Nicolas Cage,HarveyKeitel,Undirected,3
+2230,Nicolas Cage,JulianneMoore,Undirected,1
+2231,Nicolas Cage,RosarioDawson,Undirected,1
+2232,Nicolas Cage,KurtRussell,Undirected,1
+2233,Nicolas Cage,ViolaDavis,Undirected,2
+2234,Nicolas Cage,Meryl Streep,Undirected,2
+2235,Nicolas Cage,JuliaRoberts,Undirected,1
+2236,Nicolas Cage,JaredLeto,Undirected,1
+2237,Nicolas Cage,JamesFranco,Undirected,1
+2238,Nicolas Cage,MarkRuffalo,Undirected,1
+2239,Nicolas Cage,DonCheadle,Undirected,1
+2240,Nicolas Cage,RobertDuwall,Undirected,1
+2241,Nicolas Cage,JoaquinPhoenix,Undirected,1
+2242,Nicolas Cage,GarySinise,Undirected,1
+2243,Nicolas Cage,JohnMalkovich,Undirected,1
+2244,Nicolas Cage,ElisabethShue,Undirected,1
+2245,Nicolas Cage,HelenHunt,Undirected,1
+2246,Nicolas Cage,SamuelLJackson,Undirected,2
+2247,Nicolas Cage,SanleyTucci,Undirected,1
+2248,Nicolas Cage,OliviaWilde,Undirected,1
+2249,Nicolas Cage,TommyLeeJones,Undirected,1
