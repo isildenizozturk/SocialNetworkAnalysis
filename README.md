@@ -12,7 +12,9 @@ The data used in this study obtained from the article prepared by the Ranker sit
 We collected the data of actors and actresses from the best american actors and actresses working today articles prepared by the Ranker site, and the filmographies of these actors and actresses from the Imdb site manually.
 
 https://www.ranker.com/list/best-american-actresses-working-today/ranker-film
+
 https://www.ranker.com/list/best-american-actors-working-today/ranker-film
+
 https://www.imdb.com/?ref_=nv_home
 
 ## Network Construction
